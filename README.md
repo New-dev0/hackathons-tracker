@@ -12,7 +12,7 @@
 | 🟢 | [Qloo LLM Hackathon](https://qloo-hackathon.devpost.com/) | 🌐 Online | Jul 01 - Aug 01, 2025 | $25,000 | Machine Learning/AI |
 | 🟢 | [Meta Horizon Creator Competition: Elevate Your Mobile World](https://mhcp-mobile-update-competition.devpost.com/) | 🌐 Online | Jun 20 - Jul 22, 2025 | $1,000,000 | AR/VR, Gaming, Mobile |
 | 🟢 | [RevenueCat's World Paywall Speed Building Championships 2025](https://revenuecatpaywallsworldchamps.devpost.com/) | 🌐 Online | Jun 08 - Jul 22, 2025 | $5,000 | Design, Low/No Code, Mobile |
-| 🟢 | [United Hacks V5](https://unitedhacksv5.devpost.com/) | 🌐 Online | Jul 11 - 13, 2025 | $50,700 | Beginner Friendly, Open Ended, Social Good |
+| 🟢 | [United Hacks V5](https://unitedhacksv5.devpost.com/) | 🌐 Online | Jul 11 - 13, 2025 | $50,950 | Beginner Friendly, Open Ended, Social Good |
 | 🟢 | [NextStep Hacks 2025](https://nextstep2025.devpost.com/) | 🌐 Online | Jul 11 - 19, 2025 | $1,000 | Beginner Friendly, Social Good, Machine Learning/AI |
 | 🟢 | [AI for Good Hackathon](https://ai-for-good.devpost.com/) | 📍 Hyderabad, India | Jun 30 - Aug 04, 2025 | ₹ 275,000 | Health, Machine Learning/AI, Social Good |
 | 🟢 | [FusionHacks 2](https://fusionhacks-2.devpost.com/) | 🌐 Online | Jun 15 - Aug 02, 2025 | $300 | Beginner Friendly, Machine Learning/AI, Open Ended |
@@ -25,21 +25,21 @@
 | 🟢 | [GIRLCODE HACKATHON 2025](https://girlcode-hackathon-2025.devpost.com/) | 📍 GirlCode Headquarters | Jul 03 - Aug 22, 2025 | $5,500 | Cybersecurity, Fintech, Machine Learning/AI |
 | 🟢 | [IngeniumSTEM Spring Hacks 1.0](https://ingeniumstem-spring-hacks-1-0.devpost.com/) | 🌐 Online | May 21 - Aug 06, 2025 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
 | 🟢 | [MY Hack ](https://my-hack-icm.devpost.com/) | 📍 Gaithersburg, MD, USA | Jul 12 - 13, 2025 | $500 | Beginner Friendly, Machine Learning/AI, Social Good |
-| 🟢 | [HackFinity](https://hackfinityx.devpost.com/) | 🌐 Online | Jun 26 - Oct 18, 2025 | $0 | Blockchain, Machine Learning/AI, Web |
 | 🟢 | [IDL Debate Hackathon'25](https://idl-debate-hackathon-25.devpost.com/) | 🌐 Online | Jun 20 - Jul 24, 2025 | ₹ 35,000 | Beginner Friendly, Communication, Machine Learning/AI |
+| 🟢 | [HackFinity](https://hackfinityx.devpost.com/) | 🌐 Online | Jun 26 - Oct 18, 2025 | $0 | Blockchain, Machine Learning/AI, Web |
 | 🟢 | [Ghana AI Hackathon Presented by Bridge Labs](https://ghana-ai-hackathon.devpost.com/) | 📍 Accra Digital Center | Jun 30 - Jul 20, 2025 | $1,750 | Machine Learning/AI |
 | 🟢 | [CodeForSudan](https://code-for-sudan.devpost.com/) | 🌐 Online | May 01 - Jul 31, 2025 | $2,000 | Beginner Friendly, Machine Learning/AI, Social Good |
 | 🟢 | [IEEE OC Computer Society  AI Dev Hack 2025](https://ieee-ai-dev-hack-2025.devpost.com/) | 🌐 Online | Jun 24 - Sep 07, 2025 | $1,750 | Beginner Friendly, Blockchain, Machine Learning/AI |
-| 🟢 | [HackForge](https://hackforge.devpost.com/) | 🌐 Online | Jul 05 - 25, 2025 | $50 | Beginner Friendly, IoT, Machine Learning/AI |
 | 🟢 | [2025 Techinance Cyberhack](https://techinance-hackathon.devpost.com/) | 🌐 Online | Jul 01 - 13, 2025 | $0 | Beginner Friendly, Cybersecurity, Education |
+| 🟢 | [HackForge](https://hackforge.devpost.com/) | 🌐 Online | Jul 05 - 25, 2025 | $50 | Beginner Friendly, IoT, Machine Learning/AI |
 | 🟢 | [HackathonUSA.com](https://hackathonusa-com.devpost.com/) | 🌐 Online | Apr 27 - Aug 16, 2025 | $0 | Education, Lifehacks |
 | 🟢 | [W3B Pitchfest 2025](https://w3b-pitchfest-2025.devpost.com/) | 🌐 Online | Jul 11 - 13, 2025 | $200 | Beginner Friendly, Low/No Code, Machine Learning/AI |
-| 🟢 | [Opportunity Hack Summer 2025 - Volunteer Internship Hackathon](https://opportunity-hack-summer-2025.devpost.com/) | 🌐 Online | Jun 23 - Aug 02, 2025 | $0 | Social Good |
 | 🟢 | [BizHack](https://bizhack.devpost.com/) | 🌐 Online | Jul 01 - 30, 2025 | $0 | E-commerce/Retail, Enterprise, Fintech |
-| 🟢 | [vsHacks 2025](https://vshacks-2025.devpost.com/) | 📍 online | Jul 12 - 13, 2025 | $0 | Beginner Friendly, IoT, Web |
+| 🟢 | [Opportunity Hack Summer 2025 - Volunteer Internship Hackathon](https://opportunity-hack-summer-2025.devpost.com/) | 🌐 Online | Jun 23 - Aug 02, 2025 | $0 | Social Good |
 | 🟢 | [CSESoc Flagship Hackathon](https://csesoc-2025-flagship-hackathon.devpost.com/) | 📍 UNSW | Jul 11 - 12, 2025 | $1,275 | Beginner Friendly |
+| 🟢 | [vsHacks 2025](https://vshacks-2025.devpost.com/) | 📍 online | Jul 12 - 13, 2025 | $0 | Beginner Friendly, IoT, Web |
+| 🟢 | [WeaveHacks: Agent Protocols Hackathon (MCP, A2A) with Weights & Biases & Google](https://weavehacks-1.devpost.com/) | 📍 Weights & Biases SF office | Jul 12 - 13, 2025 | $13,950 | Machine Learning/AI |
 | 🟢 | [HAVK: Hacking the Desert](https://havk-hacking-the-desert.devpost.com/) | 🌐 Online | Jul 08 - 18, 2025 | $0 | Beginner Friendly, Open Ended, Social Good |
-| 🟢 | [WeaveHacks: Agent Protocols Hackathon (MCP, A2A) with Weights & Biases & Google](https://weavehacks-1.devpost.com/) | 📍 Weights & Biases SF office | Jul 12 - 13, 2025 | $13,200 | Machine Learning/AI |
 | 🟢 | [SMU .Hack Enrichment Application Programme 2025](https://dothack-heap-2025.devpost.com/) | 📍 Singapore Management University | Jun 12 - Jul 18, 2025 | $0 | Open Ended, Web, Beginner Friendly |
 | 🟢 | [MOSA Summer Hackathon 2025](https://mosa-summer-hackathon-2025.devpost.com/) | 🌐 Online | Apr 28 - Aug 24, 2025 | $0 | Beginner Friendly, Open Ended |
 | 🟢 | [HackCafé](https://hackcafe.devpost.com/) | 📍 Fazenda Monthal | Jun 27 - Aug 10, 2025 | $150 | IoT, Robotic Process Automation |
