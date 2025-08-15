@@ -16,16 +16,17 @@
 | 🟢 | [IEEE OC Computer Society  AI Dev Hack 2025](https://ieee-ai-dev-hack-2025.devpost.com/) | 🌐 Online | Jun 24 - Sep 07, 2025 | $1,750 | Beginner Friendly, Blockchain, Machine Learning/AI |
 | 🟢 | [QuSat Group Hackathon 2025](https://qusat-group-hackathon.devpost.com/) | 🌐 Online | Jul 26 - Sep 25, 2025 | $40,000 | Blockchain, Machine Learning/AI, Fintech |
 | 🟢 | [AlgoFest Hackathon](https://algofest-hackathon.devpost.com/) | 🌐 Online | Jul 25 - Aug 31, 2025 | $5,300 | Beginner Friendly, Databases, Social Good |
-| 🟢 | [The Gated NFTs University Regional Hackathon](https://gated.devpost.com/) | 🌐 Online | Feb 15 - Aug 14, 2025 | $3,225 | Blockchain, E-commerce/Retail, Web |
 | 🟢 | [CodeSprout 2025 Begginer's Edition](https://codesprout.devpost.com/) | 🌐 Online | Jul 24 - Aug 31, 2025 | $0 | Beginner Friendly, Education, Low/No Code |
-| 🟢 | [Empower Hacks 3.0 ](https://empower-hacks-3-0.devpost.com/) | 🌐 Online | Aug 11 - 17, 2025 | $339,424 | Beginner Friendly, Social Good |
+| 🟢 | [Empower Hacks 3.0 ](https://empower-hacks-3-0.devpost.com/) | 🌐 Online | Aug 11 - 17, 2025 | $362,174 | Beginner Friendly, Social Good |
 | 🟢 | [Green Wells Innovation Hackathon](https://green-wells-innovation.devpost.com/) | 🌐 Online | Aug 01 - Oct 31, 2025 | $4,500 | Machine Learning/AI, Enterprise, Web |
-| 🟢 | [Hack the System](https://hack-the-system-25912.devpost.com/) | 🌐 Online | Jul 22 - Sep 12, 2025 | $100 | Beginner Friendly, Fintech, Social Good |
 | 🟢 | [HackVerse](https://hack-verse-hackathon.devpost.com/) | 🌐 Online | Jul 31 - Aug 27, 2025 | $0 | Beginner Friendly, Low/No Code, Web |
-| 🟢 | [ReverieHacks](https://reveriehacks2025.devpost.com/) | 🌐 Online | Aug 10 - 23, 2025 | $600 | IoT, Machine Learning/AI, Social Good |
-| 🟢 | [Gen AI Chakra 4 Smart Cities Hackathon](https://gen-ai-chakra-4-smart-cities.devpost.com/) | 🌐 Online | Aug 01 - 31, 2025 | $380 | Beginner Friendly, Low/No Code, Machine Learning/AI |
+| 🟢 | [Hack the System](https://hack-the-system-25912.devpost.com/) | 🌐 Online | Jul 22 - Sep 12, 2025 | $100 | Beginner Friendly, Fintech, Social Good |
 | 🟢 | [HackSocial](https://hacksocial.devpost.com/) | 🌐 Online | Aug 01 - 15, 2025 | $100 | Beginner Friendly, Social Good |
-| 🟢 | [The Syrotech MVP Hackathon 2025](https://the-syrotech-hackathon.devpost.com/) | 🌐 Online | Aug 10 - 14, 2025 | $7,639 | Beginner Friendly, Education, Lifehacks |
+| 🟢 | [Gen AI Chakra 4 Smart Cities Hackathon](https://gen-ai-chakra-4-smart-cities.devpost.com/) | 🌐 Online | Aug 01 - 31, 2025 | $380 | Beginner Friendly, Low/No Code, Machine Learning/AI |
+| 🟢 | [ReverieHacks](https://reveriehacks2025.devpost.com/) | 🌐 Online | Aug 10 - 23, 2025 | $600 | IoT, Machine Learning/AI, Social Good |
+| 🟢 | [The Syrotech MVP Hackathon 2025](https://the-syrotech-hackathon.devpost.com/) | 🌐 Online | Aug 10 - 21, 2025 | $7,639 | Beginner Friendly, Education, Lifehacks |
+| 🟢 | [Tech Innovation For Good](https://tech-innovation-for-good.devpost.com/) | 🌐 Online | Aug 14 - 30, 2025 | $115 | Machine Learning/AI, Social Good, Health |
+| 🟢 | [Meta Horizon Creator Competition: Open Source Champions](https://mhcp-open-source-competition.devpost.com/) | 🌐 Online | Aug 14 - Sep 11, 2025 | $1,500,000 | AR/VR, Gaming |
 | 🟢 | [HackathonUSA.com](https://hackathonusa-com.devpost.com/) | 🌐 Online | Apr 27 - Aug 16, 2025 | $0 | Education, Lifehacks |
 | 🟢 | [BizHack](https://bizhack.devpost.com/) | 🌐 Online | Jul 01 - Aug 15, 2025 | $0 | E-commerce/Retail, Enterprise, Fintech |
 | 🟢 | [GNEC Hackathon 2025 Fall - Compete For UN-Affiliated/NGO Internships & Prizes](https://gnec-hackathon-2025-fall.devpost.com/) | 🌐 Online | Aug 12 - Oct 12, 2025 | $700 | Beginner Friendly, Social Good, Web |
@@ -33,21 +34,20 @@
 | 🟢 | [Dream² Bigger](https://cgcian-hotbrainz.devpost.com/) | 🌐 Online | Jul 01 - Oct 10, 2025 | $50 | Blockchain, Cybersecurity, Machine Learning/AI |
 | 🟢 | [Programmers Unknown Battleground](https://pubg.devpost.com/) | 📍 Gomendra Multiple College | Jul 22 - Aug 16, 2025 | $250 | Machine Learning/AI, Web, Blockchain |
 | 🟢 | [AnimalHack 2025](https://animalhack2025.devpost.com/) | 🌐 Online | Jul 14 - Sep 06, 2025 | $0 | Beginner Friendly, IoT, Social Good |
-| 🟢 | [Community Shaper 2025 Alpha](https://community-shaper-2025.devpost.com/) | 📍 Hong Kong Science Park  | Jun 25 - Aug 14, 2025 | $0 | Fintech, Health, Machine Learning/AI |
 | 🟢 | [HackitRx Singapore 2025](https://hackitrx.devpost.com/) | 📍 SMU Connexion Level 5 Event Plaza | Aug 01 - 24, 2025 | $1,000 | Beginner Friendly, Health, Low/No Code |
 | 🟢 | [WorthyHacks 2](https://worthyhacks2.devpost.com/) | 🌐 Online | Jul 27 - Aug 23, 2025 | $300 | Beginner Friendly, Education, Social Good |
 | 🟢 | [Bio e-tech](https://bio-e-tech.devpost.com/) | 🌐 Online | Jul 27 - Aug 20, 2025 | $0 | Beginner Friendly, Education, Health |
 | 🟢 | [Code Nexus Labs](https://code-nexus-labs.devpost.com/) | 🌐 Online | Jul 21 - Aug 15, 2025 | $0 | Open Ended, Social Good, Voice skills |
 | 🟢 | [MOSA Summer Hackathon 2025](https://mosa-summer-hackathon-2025.devpost.com/) | 🌐 Online | Apr 28 - Aug 24, 2025 | $0 | Beginner Friendly, Open Ended |
-| 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 05 - Nov 17, 2025 | $0 | Education, Health, Social Good |
 | 🟢 | [Tech 4 Social Good ](https://tech-4-social-good.devpost.com/) | 🌐 Online | Aug 11 - Sep 20, 2025 | €2,000 | Education, Machine Learning/AI, Social Good |
 | 🟢 | [E-COMMERCE Web Site Development Contest](https://e-commerce.devpost.com/) | 📍 india,kerala,kannur | Aug 13 - 31, 2025 | ₹ 6,000 | Databases, E-commerce/Retail, Machine Learning/AI |
+| 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 05 - Nov 17, 2025 | $0 | Education, Health, Social Good |
+| 🟢 | [IndiaAI Impact Gen-AI Hackathon](https://iisc-ibm-india-ai-impact.devpost.com/) | 🌐 Online | Aug 14 - 30, 2025 | ₹ 0 | Education, Machine Learning/AI, Social Good |
 | 🟢 | [No More Cyber Bullying!](https://no-more-cyberbullying.devpost.com/) | 📍 Surrey, United Kingdom | Jun 30 - Oct 30, 2025 | £0 | Beginner Friendly, Cybersecurity, Machine Learning/AI |
-| 🟢 | [StellerNet ](https://stellernet.devpost.com/) | 🌐 Online | Aug 02 - 24, 2025 | $0 | AR/VR, Education, Social Good |
 | 🟢 | [Hack The Social Sites](https://hackthesocial.devpost.com/) | 🌐 Online | Aug 13 - 15, 2025 | $0 | Design, Social Good, Web |
-| 🟢 | [AI Agent & Infra Hackathon](https://ai-agent-infra.devpost.com/) | 📍 Lux Capital NYC Office | Aug 12 - 14, 2025 | $0 | Machine Learning/AI, Serverless |
+| 🟢 | [FoundersHack Melbourne 2025](https://foundershack-melbourne-2025.devpost.com/) | 📍 Monash University  | Aug 14 - 17, 2025 | $1,700 | Beginner Friendly, Low/No Code, Machine Learning/AI |
+| 🟢 | [StellerNet ](https://stellernet.devpost.com/) | 🌐 Online | Aug 02 - 24, 2025 | $0 | AR/VR, Education, Social Good |
 | 🟢 | [HackBU - TerrierGPT Student AI Sandbox](https://hackbostonuniversity.devpost.com/) | 🌐 Online | Jul 28 - Aug 29, 2025 | $0 | Beginner Friendly, Education, Machine Learning/AI |
-| 🟢 | [Hacking Spatial Computing](https://hacking-spatial-computing.devpost.com/) | 📍 Singapore, Singapore | Aug 11 - 15, 2025 | $325 | AR/VR |
 | 🟢 | [HackPPMK25](https://hackppmk25.devpost.com/) | 🌐 Online | Aug 10 - 23, 2025 | $500 | Beginner Friendly, Education, Web |
+| 🟢 | [Hacking Spatial Computing](https://hacking-spatial-computing.devpost.com/) | 📍 Singapore, Singapore | Aug 11 - 15, 2025 | $325 | AR/VR |
 | 🟢 | [HackIT](https://hackit2025.devpost.com/) | 📍 School of Infocomm Technology | Jul 23 - Sep 15, 2025 | $0 | Beginner Friendly, Open Ended |
-| 🟢 | [Build with Kumo: The KumoRFM Hackathon Challenge ](https://the-kumorfm-hackathon.devpost.com/) | 📍 SVB venue | Aug 12 - 18, 2025 | $20,000 | Machine Learning/AI |
