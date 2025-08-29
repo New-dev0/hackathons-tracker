@@ -13,6 +13,7 @@
 | 🟢 | [GKE Turns 10 Hackathon](https://gketurns10.devpost.com/) | 🌐 Online | Aug 18 - Sep 22, 2025 | $50,000 | Low/No Code, Machine Learning/AI, Open Ended |
 | 🟢 | [TiDB AgentX Hackathon 2025](https://tidb-2025-hackathon.devpost.com/) | 🌐 Online | Aug 01 - Sep 16, 2025 | $30,500 | Databases, Machine Learning/AI, Serverless |
 | 🟢 | [IndiaAI Impact Gen-AI Hackathon](https://iisc-ibm-india-ai-impact.devpost.com/) | 🌐 Online | Aug 14 - 30, 2025 | ₹ 0 | Education, Machine Learning/AI, Social Good |
+| 🟢 | [TikTok TechJam 2025](https://tiktoktechjam2025.devpost.com/) | 🌐 Online | Aug 27 - 30, 2025 | $22,500 | Cybersecurity, Machine Learning/AI |
 | 🟢 | [Proof of Concept](https://proofofconcept.devpost.com/) | 🌐 Online | Jul 24 - Sep 19, 2025 | $25,000 | Beginner Friendly, Machine Learning/AI, Mobile |
 | 🟢 | [IEEE OC Computer Society  AI Dev Hack 2025](https://ieee-ai-dev-hack-2025.devpost.com/) | 🌐 Online | Jun 24 - Sep 21, 2025 | $1,750 | Beginner Friendly, Blockchain, Machine Learning/AI |
 | 🟢 | [Meta Horizon Creator Competition: Open Source Champions](https://mhcp-open-source-competition.devpost.com/) | 🌐 Online | Aug 14 - Sep 11, 2025 | $1,500,000 | AR/VR, Gaming |
@@ -25,6 +26,7 @@
 | 🟢 | [Bay2BayHacks 2025](https://bay-2-bay-hacks.devpost.com/) | 🌐 Online | Aug 15 - 29, 2025 | $52,118 | Machine Learning/AI, Open Ended, Beginner Friendly |
 | 🟢 | [GNEC Hackathon 2025 Fall - Compete For UN-Affiliated/NGO Internships & Prizes](https://gnec-hackathon-2025-fall.devpost.com/) | 🌐 Online | Aug 12 - Oct 12, 2025 | $700 | Beginner Friendly, Social Good, Web |
 | 🟢 | [Green Wells Innovation Hackathon](https://green-wells-innovation.devpost.com/) | 🌐 Online | Aug 01 - Oct 31, 2025 | $4,500 | Machine Learning/AI, Enterprise, Web |
+| 🟢 | [natHACKS 2024](https://nathacks-2024.devpost.com/) | 📍 Edmonton, Calgary, Lethbridge, Online | Nov 14, 2024 - Nov 17, 2025 | $CAD 31,500 | Beginner Friendly, Health, Education |
 | 🟢 | [HackSocial](https://hacksocial.devpost.com/) | 🌐 Online | Aug 01 - 31, 2025 | $100 | Beginner Friendly, Social Good |
 | 🟢 | [Gen AI Chakra 4 Smart Cities Hackathon](https://gen-ai-chakra-4-smart-cities.devpost.com/) | 🌐 Online | Aug 01 - 31, 2025 | $380 | Beginner Friendly, Low/No Code, Machine Learning/AI |
 | 🟢 | [Hack the System](https://hack-the-system-25912.devpost.com/) | 🌐 Online | Jul 22 - Sep 12, 2025 | $100 | Beginner Friendly, Fintech, Social Good |
@@ -33,21 +35,19 @@
 | 🟢 | [Dream² Bigger](https://cgcian-hotbrainz.devpost.com/) | 🌐 Online | Jul 01 - Oct 10, 2025 | $50 | Blockchain, Cybersecurity, Machine Learning/AI |
 | 🟢 | [AnimalHack 2025](https://animalhack2025.devpost.com/) | 🌐 Online | Jul 14 - Sep 06, 2025 | $0 | Beginner Friendly, IoT, Social Good |
 | 🟢 | [Youth Coders Hack 2025](https://youth-coders-hack.devpost.com/) | 🌐 Online | Aug 21 - Oct 26, 2025 | $850 | Beginner Friendly, Education, Social Good |
-| 🟢 | [NovaSpark Pitch Competition](https://novaspark-pitch-competition.devpost.com/) | 🌐 Online | Aug 19 - 31, 2025 | $2,500 | Enterprise, Design |
 | 🟢 | [Eco-Innovation Challenge](https://eco-innovation-challenge.devpost.com/) | 🌐 Online | Aug 21 - 30, 2025 | $300 | IoT, Machine Learning/AI, Social Good |
+| 🟢 | [NovaSpark Pitch Competition](https://novaspark-pitch-competition.devpost.com/) | 🌐 Online | Aug 19 - 31, 2025 | $2,500 | Enterprise, Design |
 | 🟢 | [Hack 4 Humanity 2025](https://hackhumanity2025.devpost.com/) | 🌐 Online | Aug 21 - Sep 10, 2025 | $186,075 | Lifehacks, Low/No Code, Social Good |
 | 🟢 | [BatchHacks Team Water! Each submission = 1 Year of Water](https://batchhacks-team-water.devpost.com/) | 🌐 Online | Aug 17 - 31, 2025 | $200 | Beginner Friendly, Open Ended, Social Good |
 | 🟢 | [Student Innovators Without Borders Hacks (Students; Open Ended)](https://innovators-without-borders.devpost.com/) | 🌐 Online | Aug 17 - Dec 19, 2025 | $1,600 | Beginner Friendly, Open Ended, Social Good |
 | 🟢 | [BatchHacks (Students Only; Open-Ended)](https://batchhacks.devpost.com/) | 🌐 Online | Aug 16 - Dec 19, 2025 | $1,400 | Beginner Friendly, Machine Learning/AI, Open Ended |
 | 🟢 | [Deckathon](https://deckathon.devpost.com/) | 🌐 Online | Aug 17 - Oct 01, 2025 | $0 | Design, Low/No Code, Open Ended |
+| 🟢 | [TechLit Bridging The Gap 2025 Hackathon](https://bridgethegap.devpost.com/) | 🌐 Online | Aug 27 - 31, 2025 | $2,915 | Beginner Friendly, Low/No Code, Open Ended |
 | 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 27 - Nov 17, 2025 | $0 | Education, Health, Social Good |
 | 🟢 | [TRAVEL-WIZARD Designing the Future of Conversational Travel](https://ai-conversational-travel.devpost.com/) | 🌐 Online | Aug 18 - Sep 25, 2025 | $0 | Design, Machine Learning/AI, Social Good |
-| 🟢 | [TechLit Bridging The Gap 2025 Hackathon](https://bridgethegap.devpost.com/) | 🌐 Online | Aug 27 - 31, 2025 | $2,915 | Beginner Friendly, Low/No Code, Open Ended |
 | 🟢 | [Helping Teens](https://helping-teens.devpost.com/) | 🌐 Online | Aug 24 - 30, 2025 | $0 | Beginner Friendly, Education, Open Ended |
 | 🟢 | [No More Cyber Bullying!](https://no-more-cyberbullying.devpost.com/) | 📍 Surrey, United Kingdom | Jun 30 - Sep 18, 2025 | £0 | Beginner Friendly, Cybersecurity, Machine Learning/AI |
 | 🟢 | [StellerNet ](https://stellernet.devpost.com/) | 🌐 Online | Aug 02 - 31, 2025 | $0 | AR/VR, Education, Social Good |
+| 🟢 | [MiniMax 2025 AI Hackathon in Hong Kong](https://minimax-hackathon-in-hk.devpost.com/) | 📍 Hồng Kông | Aug 28 - Sep 12, 2025 | $0 | Beginner Friendly, DevOps, Machine Learning/AI |
+| 🟢 | [Fun and Games with Devvit Web](https://redditfunandgames.devpost.com/) | 🌐 Online | Aug 28 - Sep 17, 2025 | $49,000 | Gaming, Beginner Friendly, Web |
 | 🟢 | [Techs Sparking Challenge](https://techs-sparking-challenge.devpost.com/) | 🌐 Online | Aug 18 - Nov 01, 2025 | $0 | Education, Health, Machine Learning/AI |
-| 🟢 | [HackBU - TerrierGPT Student AI Sandbox](https://hackbostonuniversity.devpost.com/) | 🌐 Online | Jul 28 - Aug 29, 2025 | $0 | Beginner Friendly, Education, Machine Learning/AI |
-| 🟢 | [HackIT](https://hackit2025.devpost.com/) | 📍 School of Infocomm Technology | Jul 23 - Sep 15, 2025 | $0 | Beginner Friendly, Open Ended |
-| 🟢 | [Innovation- 2k25](https://innovation-2k25.devpost.com/) | 🌐 Online | Aug 20 - Sep 20, 2025 | ₹ 150,000 | Education |
-| 🟢 | [GIRLCODE GHANA HACKATHON 2025](https://girlcode-ghana-hackathon-2025.devpost.com/) | 📍 GirlCode Headquarters | Aug 22 - Sep 14, 2025 | $5,500 | Cybersecurity, Fintech, Machine Learning/AI |
