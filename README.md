@@ -33,21 +33,21 @@
 | 🟢 | [Deckathon](https://deckathon.devpost.com/) | 🌐 Online | Aug 17 - Oct 01, 2025 | $0 | Design, Low/No Code, Open Ended |
 | 🟢 | [STEM Connect Hackathon Fall 2025](https://stem-connect-fall2025.devpost.com/) | 🌐 Online | Sep 19 - 22, 2025 | $3,600 | Beginner Friendly, Open Ended |
 | 🟢 | [BatchHacks (Students Only; Open-Ended)](https://batchhacks.devpost.com/) | 🌐 Online | Aug 16 - Dec 19, 2025 | $1,400 | Beginner Friendly, Machine Learning/AI, Open Ended |
-| 🟢 | [PennApps XXVI](https://pennapps-xxvi.devpost.com/) | 📍 UPenn - School of Engineering | Sep 20 - 21, 2025 | $0 | Education |
+| 🟢 | [Hacktivism II](https://hacktivism2.devpost.com/) | 🌐 Online | Sep 21 - 27, 2025 | $334,730 | Beginner Friendly, Education, Social Good |
 | 🟢 | [Octopus Hackathon](https://octopushackathon.devpost.com/) | 🌐 Online | Sep 11 - 30, 2025 | $3,500 | Beginner Friendly, Low/No Code, Social Good |
 | 🟢 | [Dream² Bigger](https://cgcian-hotbrainz.devpost.com/) | 🌐 Online | Jul 01 - Oct 10, 2025 | $50 | Blockchain, Cybersecurity, Machine Learning/AI |
-| 🟢 | [WTH 2025](https://what-the-hack-2025.devpost.com/) | 🌐 Online | Sep 12 - 21, 2025 | $10,500 | Health, Open Ended, Social Good |
 | 🟢 | [Student Innovators Without Borders Hacks (Students; Open Ended)](https://innovators-without-borders.devpost.com/) | 🌐 Online | Aug 17 - Dec 19, 2025 | $1,600 | Beginner Friendly, Open Ended, Social Good |
-| 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 27 - Nov 17, 2025 | $0 | Education, Health, Social Good |
+| 🟢 | [CodeKong](https://codekong.devpost.com/) | 🌐 Online | Sep 14 - Oct 04, 2025 | $200 | Machine Learning/AI, Open Ended, Web |
 | 🟢 | [DevOne Hack ](https://devonehack.devpost.com/) | 🌐 Online | Sep 09 - 30, 2025 | $1,000 | Beginner Friendly, Machine Learning/AI, Social Good |
-| 🟢 | [CodeKong](https://codekong.devpost.com/) | 🌐 Online | Sep 14 - 21, 2025 | $200 | Machine Learning/AI, Open Ended, Web |
+| 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 27 - Nov 17, 2025 | $0 | Education, Health, Social Good |
 | 🟢 | [AI Agent Competition by Open Mobile Hub](https://ai-agent-competition-omh.devpost.com/) | 📍 Computer History Museum | Sep 09 - Oct 11, 2025 | $18,500 | Machine Learning/AI, Mobile, Productivity |
-| 🟢 | [HackRice 15](https://hackrice-15.devpost.com/) | 📍 Rice University Memorial Center  | Sep 19 - 21, 2025 | $10,200 | Fintech, Health, Machine Learning/AI |
 | 🟢 | [AI in the Outback](https://ai-in-the-outback.devpost.com/) | 🌐 Online | Sep 07 - 28, 2025 | $200 | Beginner Friendly, Social Good, Machine Learning/AI |
-| 🟢 | [SteelHacks XII](https://steelhacks-xii.devpost.com/) | 📍 Wesley W. Posvar Hall | Sep 20 - 21, 2025 | $0 | Beginner Friendly, Social Good |
-| 🟢 | [First Visions: Danta](https://first-danta.devpost.com/) | 🌐 Online | Sep 18 - 22, 2025 | $2,100 | Beginner Friendly, Machine Learning/AI, Serverless |
-| 🟢 | [TRAVEL-WIZARD Designing the Future of Conversational Travel](https://ai-conversational-travel.devpost.com/) | 🌐 Online | Aug 18 - Sep 25, 2025 | $0 | Design, Machine Learning/AI, Social Good |
+| 🟢 | [First Visions: Danta](https://first-danta.devpost.com/) | 🌐 Online | Sep 18 - 29, 2025 | $2,100 | Beginner Friendly, Machine Learning/AI, Serverless |
 | 🟢 | [HACK FOR HEALTH](https://hack-for-health-26500.devpost.com/) | 🌐 Online | Sep 16 - 30, 2025 | $100 | Beginner Friendly, Health, Web |
+| 🟢 | [TRAVEL-WIZARD Designing the Future of Conversational Travel](https://ai-conversational-travel.devpost.com/) | 🌐 Online | Aug 18 - Sep 25, 2025 | $0 | Design, Machine Learning/AI, Social Good |
 | 🟢 | [Horror Hacks](https://horror-hacks-2025.devpost.com/) | 🌐 Online | Sep 06 - Oct 26, 2025 | $300 | Beginner Friendly, Open Ended, Web |
 | 🟢 | [Techs Sparking Challenge](https://techs-sparking-challenge.devpost.com/) | 🌐 Online | Aug 18 - Nov 01, 2025 | $0 | Education, Health, Machine Learning/AI |
-| 🟢 | [Venture313 2025 AI Buildathon](https://v313detroitbuildathon2025.devpost.com/) | 📍 NewLab Detroit | Sep 19 - 22, 2025 | $17,500 | Beginner Friendly, Low/No Code |
+| 🟢 | [AsterHacks 2025](https://asterhacks-2025.devpost.com/) | 🌐 Online | Sep 14 - Oct 18, 2025 | $0 | Machine Learning/AI, Open Ended, Social Good |
+| 🟢 | [Venture313 2025 AI Buildathon](https://v313detroitbuildathon2025.devpost.com/) | 📍 NewLab Detroit | Sep 19 - 23, 2025 | $17,500 | Beginner Friendly, Low/No Code |
+| 🟢 | [Web Design Project-No Javascript](https://web-design-project.devpost.com/) | 🌐 Online | Sep 20 - Oct 10, 2025 | $0 | Beginner Friendly, Design, Web |
+| 🟢 | [LUMA Startathon: Pitch your startup, win $1000 cash!](https://luma-startathon.devpost.com/) | 🌐 Online | Sep 19 - Oct 06, 2025 | $1,000 | Communication, E-commerce/Retail, Open Ended |
