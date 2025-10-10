@@ -8,7 +8,7 @@
 |--------|--------|----------|-------------------|-------|--------|
 | 🟢 | [Google Chrome Built-in AI Challenge 2025 ](https://googlechromeai2025.devpost.com/) | 🌐 Online | Sep 09 - Nov 01, 2025 | $70,000 | Beginner Friendly, Machine Learning/AI, Web |
 | 🟢 | [AWS AI Agent Global Hackathon](https://aws-agent-hackathon.devpost.com/) | 🌐 Online | Sep 08 - Oct 20, 2025 | $45,000 | DevOps, Enterprise, Machine Learning/AI |
-| 🟢 | [Chroma Awards: AI Film, Music Videos, and Games](https://chromaawards.devpost.com/) | 🌐 Online | Aug 31 - Nov 04, 2025 | $176,500 | Gaming, Music/Art, Machine Learning/AI |
+| 🟢 | [Chroma Awards: AI Film, Music Videos, and Games](https://chromaawards.devpost.com/) | 🌐 Online | Aug 31 - Nov 18, 2025 | $176,500 | Gaming, Music/Art, Machine Learning/AI |
 | 🟢 | [AI Accelerate: Unlocking New Frontiers](https://ai-accelerate.devpost.com/) | 🌐 Online | Sep 16 - Oct 24, 2025 | $50,000 | Databases, Machine Learning/AI, Open Ended |
 | 🟢 | [Rift Rewind Hackathon](https://riftrewind.devpost.com/) | 🌐 Online | Sep 15 - Nov 10, 2025 | $26,000 | Machine Learning/AI, Databases, Gaming |
 | 🟢 | [Starknet Re{Solve} Hackathon](https://resolve-starknet.devpost.com/) | 🌐 Online | Sep 15 - Oct 16, 2025 | $43,500 | Blockchain, Fintech, Web |
@@ -25,9 +25,9 @@
 | 🟢 | [Web Design Project-No Javascript](https://web-design-project.devpost.com/) | 🌐 Online | Sep 20 - Oct 10, 2025 | $0 | Beginner Friendly, Design, Web |
 | 🟢 | [BatchHacks (Students Only; Open-Ended)](https://batchhacks.devpost.com/) | 🌐 Online | Aug 16 - Dec 19, 2025 | $1,400 | Beginner Friendly, Machine Learning/AI, Open Ended |
 | 🟢 | [ARM AI Developer Challenge ](https://arm-ai-developer-challenge.devpost.com/) | 🌐 Online | Oct 06 - Dec 04, 2025 | $15,000 | IoT, Machine Learning/AI, Mobile |
+| 🟢 | [Memories That Last - AI Agents Hackathon](https://memories-that-last-hackathon.devpost.com/) | 📍 JFK24 Building | Oct 08 - 09, 2025 | $4,000 | Enterprise, Low/No Code, Machine Learning/AI |
 | 🟢 | [DevOne Hack ](https://devonehack.devpost.com/) | 🌐 Online | Sep 09 - Oct 25, 2025 | $1,000 | Beginner Friendly, Machine Learning/AI, Social Good |
 | 🟢 | [Student Innovators Without Borders Hacks (Students; Open Ended)](https://innovators-without-borders.devpost.com/) | 🌐 Online | Aug 17 - Dec 19, 2025 | $1,600 | Beginner Friendly, Open Ended, Social Good |
-| 🟢 | [Memories That Last - AI Agents Hackathon](https://memories-that-last-hackathon.devpost.com/) | 📍 JFK24 Building | Oct 08 - 09, 2025 | $4,000 | Enterprise, Low/No Code, Machine Learning/AI |
 | 🟢 | [AI Agent Competition by Open Mobile Hub](https://ai-agent-competition-omh.devpost.com/) | 📍 Computer History Museum | Sep 09 - Oct 11, 2025 | $18,500 | Machine Learning/AI, Mobile, Productivity |
 | 🟢 | [Dream² Bigger](https://cgcian-hotbrainz.devpost.com/) | 🌐 Online | Jul 01 - Oct 10, 2025 | $50 | Blockchain, Cybersecurity, Machine Learning/AI |
 | 🟢 | [EduHacks AI Fest 2025](https://eduhacks-ai-fest-2025.devpost.com/) | 🌐 Online | Sep 29 - Oct 18, 2025 | $10,600 | Beginner Friendly, Education, Machine Learning/AI |
@@ -37,17 +37,17 @@
 | 🟢 | [Horror Hacks](https://horror-hacks-2025.devpost.com/) | 🌐 Online | Sep 06 - Oct 26, 2025 | $300 | Beginner Friendly, Open Ended, Web |
 | 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 27 - Nov 17, 2025 | $0 | Education, Health, Social Good |
 | 🟢 | [HalOthon](https://halothon-2025.devpost.com/) | 🌐 Online | Oct 01 - 26, 2025 | ₹ 100,000 | Beginner Friendly, Low/No Code, Machine Learning/AI |
-| 🟢 | [Dakar Bitcoin Hack](https://dakar-bitcoin-hack-26476.devpost.com/) | 🌐 Online | Sep 22 - Oct 24, 2025 | $1,750 | Blockchain, Fintech, Machine Learning/AI |
 | 🟢 | [AsterHacks 2025](https://asterhacks-2025.devpost.com/) | 🌐 Online | Sep 14 - Oct 18, 2025 | $0 | Machine Learning/AI, Open Ended, Social Good |
-| 🟢 | [Techs Sparking Challenge](https://techs-sparking-challenge.devpost.com/) | 🌐 Online | Aug 18 - Nov 01, 2025 | $0 | Education, Health, Machine Learning/AI |
+| 🟢 | [Dakar Bitcoin Hack](https://dakar-bitcoin-hack-26476.devpost.com/) | 🌐 Online | Sep 22 - Oct 24, 2025 | $1,750 | Blockchain, Fintech, Machine Learning/AI |
 | 🟢 | [Eurekathon 2025](https://eureka-institute-eurekathon.devpost.com/) | 🌐 Online | Sep 22 - Oct 26, 2025 | $40,414 | Beginner Friendly, Machine Learning/AI, Open Ended |
+| 🟢 | [Techs Sparking Challenge](https://techs-sparking-challenge.devpost.com/) | 🌐 Online | Aug 18 - Nov 01, 2025 | $0 | Education, Health, Machine Learning/AI |
 | 🟢 | [Maximally Hacktober: A Month-Long Hackathon for the Builders Who Won’t Quit](https://maximallyhacktober.devpost.com/) | 🌐 Online | Sep 30 - Oct 31, 2025 | ₹ 56,000 | Beginner Friendly, Open Ended, Productivity |
-| 🟢 | [GIRLCODE GHANA HACKATHON 2025](https://girlcode-ghana-hackathon-2025.devpost.com/) | 📍 GirlCode Headquarters | Aug 22 - Oct 09, 2025 | $5,500 | Cybersecurity, Fintech, Machine Learning/AI |
-| 🟢 | [IT HACKS 25](https://it-hacks-25.devpost.com/) | 🌐 Online | Oct 07 - 13, 2025 | $3,000 | Databases, Machine Learning/AI, Open Ended |
 | 🟢 | [InnovArt 2026: Art and Technology Hack Day](https://innovart2026.devpost.com/) | 🌐 Online | Sep 04, 2025 - Jan 03, 2026 | $0 | Design, IoT, Music/Art |
+| 🟢 | [IT HACKS 25](https://it-hacks-25.devpost.com/) | 🌐 Online | Oct 07 - 13, 2025 | $3,000 | Databases, Machine Learning/AI, Open Ended |
 | 🟢 | [Hackonomics 2026](https://hackonomics26.devpost.com/) | 🌐 Online | Sep 01, 2025 - Mar 30, 2026 | $0 | Beginner Friendly, Education, Open Ended |
-| 🟢 | [Innovate with AI Competition](https://devfest-innovate-with-ai.devpost.com/) | 📍 University of Windsor | Sep 02 - Oct 12, 2025 | $CAD 1,000 | Machine Learning/AI |
-| 🟢 | [Open Hack](https://open-haxk.devpost.com/) | 🌐 Online | Oct 01 - Nov 01, 2025 | ₹ 10,000 | Beginner Friendly, Lifehacks, Open Ended |
-| 🟢 | [CheerpJ: The Hackathon](https://cheerpj-the-hackathon.devpost.com/) | 📍 Nexus, University of Leeds | Sep 01 - Dec 01, 2025 | £0 | Beginner Friendly, Web, Education |
 | 🟢 | [BUILD Halloween Hacks](https://build-halloween-2025.devpost.com/) | 🌐 Online | Oct 01 - 31, 2025 | $25,007 | Beginner Friendly, Open Ended, Social Good |
+| 🟢 | [Open Hack](https://open-haxk.devpost.com/) | 🌐 Online | Oct 01 - Nov 01, 2025 | ₹ 10,000 | Beginner Friendly, Lifehacks, Open Ended |
+| 🟢 | [Innovate with AI Competition](https://devfest-innovate-with-ai.devpost.com/) | 📍 University of Windsor | Sep 02 - Oct 12, 2025 | $CAD 1,000 | Machine Learning/AI |
+| 🟢 | [CheerpJ: The Hackathon](https://cheerpj-the-hackathon.devpost.com/) | 📍 Nexus, University of Leeds | Sep 01 - Dec 01, 2025 | £0 | Beginner Friendly, Web, Education |
 | 🟢 | [2025-2026 Fall ESE Senior Design](https://ese4500f25.devpost.com/) | 📍 Philadelphia, PA, USA | Sep 23 - Dec 18, 2025 | $0 | AR/VR, Open Ended, Robotic Process Automation |
+| 🟢 | [Roblox Hack 2025](https://roblox-hack-2025.devpost.com/) | 🌐 Online | Oct 08 - 13, 2025 | $960 | Beginner Friendly, Gaming, Music/Art |
