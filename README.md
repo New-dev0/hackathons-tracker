@@ -28,26 +28,26 @@
 | 🟢 | [AI 4 Alzheimer's](https://ai4alzheimers.devpost.com/) | 🌐 Online | Oct 22 - Dec 31, 2025 | $111,930 | Beginner Friendly, Machine Learning/AI, Health |
 | 🟢 | [AETHRA GLOBAL IDEATHON  2025 ](https://aethra-ideathon-2025.devpost.com/) | 🌐 Online | Oct 05 - Nov 16, 2025 | $5,785 | Beginner Friendly, Low/No Code, Social Good |
 | 🟢 | [Maximally Grand Indian Hackathon Season](https://mgihs.devpost.com/) | 🌐 Online | Sep 28 - Nov 15, 2025 | ₹ 80,000 | Low/No Code, Machine Learning/AI, Open Ended |
+| 🟢 | [HackUTD 2025: Lost in the Pages](https://hackutd-2025.devpost.com/) | 📍 University of Texas at Dallas - ECSW | Nov 08 - 09, 2025 | $0 | Beginner Friendly, Open Ended, Social Good |
 | 🟢 | [MiSpace Hackathon 2025](https://mispace.devpost.com/) | 🌐 Online | Oct 17 - Nov 17, 2025 | $30,000 | Databases, Education, Social Good |
 | 🟢 | [DevIgnite](https://devignite.devpost.com/) | 🌐 Online | Aug 27 - Nov 17, 2025 | $0 | Education, Health, Social Good |
 | 🟢 | [Vibeathon](https://vibeathon.devpost.com/) | 📍 Polaris Campus | Nov 07 - 09, 2025 | ₹ 169,998 | Beginner Friendly, Low/No Code, Machine Learning/AI |
+| 🟢 | [HackPrinceton Fall 2025](https://hackprinceton-fall-2025.devpost.com/) | 📍 Princeton University - Friend Center | Nov 07 - 09, 2025 | $15,300 | Education, Health, Social Good |
+| 🟢 | [UB Hacking Fall 2025](https://ub-hacking-fall-2025.devpost.com/) | 📍 University at Buffalo - Davis Hall | Nov 08 - 09, 2025 | $3,000 | Beginner Friendly, Open Ended, Social Good |
+| 🟢 | [Code the Past Hackathon ](https://code-the-future-hackathon.devpost.com/) | 🌐 Online | Nov 08 - 09, 2025 | $600 | Beginner Friendly, Machine Learning/AI |
 | 🟢 | [LuminHacks](https://lumin-hacks.devpost.com/) | 🌐 Online | Oct 15 - Nov 12, 2025 | $3,500 | Beginner Friendly, Machine Learning/AI |
 | 🟢 | [Silicon Valley Tech For Good Basecamp 2025](https://tech4good-2025.devpost.com/) | 📍 San Jose, California, USA | Nov 01 - 09, 2025 | $0 | Machine Learning/AI, Social Good |
-| 🟢 | [InnovArt 2026: Art and Technology Hack Day](https://innovart2026.devpost.com/) | 🌐 Online | Sep 04, 2025 - Jan 03, 2026 | $0 | Design, IoT, Music/Art |
-| 🟢 | [Intelligent Planet Hackathon 2025](https://intelligentplanet.devpost.com/) | 📍 KFUPM, Dhahran, Saudi Arabia | Oct 16 - Nov 08, 2025 | $15,000 | Machine Learning/AI, Open Ended, Social Good |
+| 🟢 | [AI ATL 2025](https://ai-atl-2025.devpost.com/) | 📍 Klaus Advanced Computing Building | Nov 08 - 09, 2025 | $0 | Beginner Friendly, Machine Learning/AI |
+| 🟢 | [HackUMass XIII](https://hackumass-xiii.devpost.com/) | 📍 Integrated Learning Center | Nov 07 - 09, 2025 | $0 | Beginner Friendly |
+| 🟢 | [Duke AI Hackathon 2025](https://duke-ai-hackathon-2025.devpost.com/) | 📍 Wilkinson Building, Duke University | Nov 07 - 09, 2025 | $0 | Machine Learning/AI |
 | 🟢 | [EHC OpenHack I](https://ehc-openhack-i.devpost.com/) | 🌐 Online | Oct 13 - Nov 15, 2025 | $24,290 | Beginner Friendly, Open Ended |
+| 🟢 | [Build-a-thon 2025](https://build-a-thon.devpost.com/) | 🌐 Online | Nov 06 - 10, 2025 | $13,500 | Beginner Friendly, Education, Machine Learning/AI |
+| 🟢 | [InnovArt 2026: Art and Technology Hack Day](https://innovart2026.devpost.com/) | 🌐 Online | Sep 04, 2025 - Jan 03, 2026 | $0 | Design, IoT, Music/Art |
+| 🟢 | [MountainHacks 2025](https://mountain-hacks-2025.devpost.com/) | 📍 Mountain House High School | Nov 08, 2025 | $12,460 | Beginner Friendly, IoT, Machine Learning/AI |
+| 🟢 | [MICRO LABS HACKATHON 2025](https://micro-labs-hackathon-2025.devpost.com/) | 📍 Bangalore | Oct 27 - Nov 10, 2025 | ₹ 175,000 | Health, Machine Learning/AI |
 | 🟢 | [Galuxium Nexus V1](https://galuxium-nexus.devpost.com/) | 🌐 Online | Oct 20 - Nov 30, 2025 | ₹ 54,777 | Open Ended, Productivity, Machine Learning/AI |
 | 🟢 | [Hackonomics 2026](https://hackonomics26.devpost.com/) | 🌐 Online | Sep 01, 2025 - Mar 30, 2026 | $0 | Beginner Friendly, Education, Open Ended |
-| 🟢 | [Build-a-thon 2025](https://build-a-thon.devpost.com/) | 🌐 Online | Nov 06 - 10, 2025 | $13,500 | Beginner Friendly, Education, Machine Learning/AI |
-| 🟢 | [MICRO LABS HACKATHON 2025](https://micro-labs-hackathon-2025.devpost.com/) | 📍 Bangalore | Oct 27 - Nov 10, 2025 | ₹ 175,000 | Health, Machine Learning/AI |
 | 🟢 | [LUMA Startathon 2025: Build. Launch. Win.](https://lumastartathon.devpost.com/) | 🌐 Online | Oct 19 - Nov 30, 2025 | $2,000 | IoT, Open Ended, Voice skills |
-| 🟢 | [IngeniumSTEM Hack4Life](https://ingeniumstem-hack4life.devpost.com/) | 🌐 Online | Sep 19 - Nov 19, 2025 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
 | 🟢 | [Open Vibe Hackathon](https://open-vibe-hackathon.devpost.com/) | 🌐 Online | Oct 31 - Nov 30, 2025 | $2,500 | Low/No Code, Machine Learning/AI, Open Ended |
-| 🟢 | [CheerpJ: The Hackathon](https://cheerpj-the-hackathon.devpost.com/) | 📍 Nexus, University of Leeds | Sep 01 - Dec 01, 2025 | £0 | Beginner Friendly, Web, Education |
-| 🟢 | [Hack4Unity](https://hack4unity.devpost.com/) | 🌐 Online | Oct 21 - Nov 27, 2025 | $6,640 | Beginner Friendly, Machine Learning/AI, Open Ended |
-| 🟢 | [SnowHack](https://snowhack.devpost.com/) | 🌐 Online | Nov 01 - 23, 2025 | $10,000 | Beginner Friendly, Low/No Code, Social Good |
-| 🟢 | [E-Techh Hacks](https://e-techh-hacks.devpost.com/) | 🌐 Online | Oct 04 - Dec 19, 2025 | $0 | Beginner Friendly, Low/No Code, Machine Learning/AI |
-| 🟢 | [Snow Fest](https://snowfest.devpost.com/) | 🌐 Online | Oct 31 - Nov 30, 2025 | $2,200 | Beginner Friendly, Low/No Code, Social Good |
-| 🟢 | [TechFiesta 2026](https://techfiesta.devpost.com/) | 🌐 Online | Oct 28 - Nov 15, 2025 | ₹ 350,000 | Fintech, Machine Learning/AI, Web |
-| 🟢 | [UI/UX Design Hackathon (Gain Professional Feedback!)](https://ui-ux-design-hackathon-26776.devpost.com/) | 🌐 Online | Oct 08 - Nov 30, 2025 | $0 | Beginner Friendly, Design, Social Good |
-| 🟢 | [2025-2026 Fall ESE Senior Design](https://ese4500f25.devpost.com/) | 📍 Philadelphia, PA, USA | Sep 23 - Dec 18, 2025 | $0 | AR/VR, Open Ended, Robotic Process Automation |
+| 🟢 | [IngeniumSTEM Hack4Life](https://ingeniumstem-hack4life.devpost.com/) | 🌐 Online | Sep 19 - Nov 19, 2025 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
+| 🟢 | [Maximally Steal-A-Thon](https://stealathon.devpost.com/) | 🌐 Online | Nov 08 - 09, 2025 | ₹ 55,000 | Beginner Friendly, Design, Open Ended |
