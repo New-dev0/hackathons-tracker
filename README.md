@@ -21,6 +21,7 @@
 | 🟢 | [AI 4 Alzheimer's](https://ai4alzheimers.devpost.com/) | 🌐 Online | Oct 22 - Dec 31, 2025 | $272,730 | Beginner Friendly, Machine Learning/AI, Health |
 | 🟢 | [Student Innovators Without Borders Hacks (Students; Open Ended)](https://innovators-without-borders.devpost.com/) | 🌐 Online | Aug 17 - Dec 19, 2025 | $1,600 | Beginner Friendly, Open Ended, Social Good |
 | 🟢 | [Yelp AI API Hackathon](https://yelp-ai.devpost.com/) | 🌐 Online | Nov 10 - Dec 17, 2025 | $5,000 | Machine Learning/AI |
+| 🟢 | [hackaTUM 2025](https://hackatum25.devpost.com/) | 📍 Technical University of Munich, FMI | Nov 21 - 23, 2025 | €0 | Beginner Friendly |
 | 🟢 | [MNEE Hackathon: Programmable Money for Agents, Commerce, and Automated Finance](https://mnee-eth.devpost.com/) | 🌐 Online | Nov 17, 2025 - Jan 12, 2026 | $50,000 | Blockchain, Machine Learning/AI, Gaming |
 | 🟢 | [ERNIE AI Developer Challenge](https://baiduernieai.devpost.com/) | 🌐 Online | Nov 18 - Dec 23, 2025 | $10,000 | Beginner Friendly, IoT, Machine Learning/AI |
 | 🟢 | [Code Spring ](https://code-spring.devpost.com/) | 🌐 Online | Nov 13 - 30, 2025 | $5,800 | Beginner Friendly, Machine Learning/AI, Productivity |
@@ -28,26 +29,25 @@
 | 🟢 | [InnovArt 2026: Art and Technology Hack Day](https://innovart2026.devpost.com/) | 🌐 Online | Sep 04, 2025 - Jan 03, 2026 | $0 | Design, IoT, Music/Art |
 | 🟢 | [Galuxium Nexus V1](https://galuxium-nexus.devpost.com/) | 🌐 Online | Oct 20 - Nov 30, 2025 | ₹ 54,777 | Open Ended, Productivity, Machine Learning/AI |
 | 🟢 | [Hackonomics 2026](https://hackonomics26.devpost.com/) | 🌐 Online | Sep 01, 2025 - Mar 30, 2026 | $0 | Beginner Friendly, Education, Open Ended |
-| 🟢 | [LUMA Startathon 2025: Build. Launch. Win.](https://lumastartathon.devpost.com/) | 🌐 Online | Oct 19 - Nov 30, 2025 | $2,000 | IoT, Open Ended, Voice skills |
 | 🟢 | [Hack4Unity](https://hack4unity.devpost.com/) | 🌐 Online | Oct 21 - Nov 27, 2025 | $6,640 | Beginner Friendly, Machine Learning/AI, Open Ended |
-| 🟢 | [CodeCraze](https://codecraze.devpost.com/) | 🌐 Online | Nov 16 - Dec 15, 2025 | $5,000 | Education, Fintech, Health |
+| 🟢 | [LUMA Startathon 2025: Build. Launch. Win.](https://lumastartathon.devpost.com/) | 🌐 Online | Oct 19 - Nov 30, 2025 | $2,000 | IoT, Open Ended, Voice skills |
 | 🟢 | [IngeniumSTEM Hack4Life](https://ingeniumstem-hack4life.devpost.com/) | 🌐 Online | Sep 19 - Nov 26, 2025 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
-| 🟢 | [NinjaHacks 2](https://ninjahacks26014.devpost.com/) | 🌐 Online | Nov 14 - 21, 2025 | $0 | Beginner Friendly, Robotic Process Automation, Social Good |
 | 🟢 | [Horizon Hacks 2025](https://horizon-hacks-ai.devpost.com/) | 🌐 Online | Nov 15 - 25, 2025 | $3,000 | Education, Machine Learning/AI, Social Good |
 | 🟢 | [Studiio Hacks](https://studiio-hacks.devpost.com/) | 🌐 Online | Nov 01 - 30, 2025 | $2,600 | Education, Machine Learning/AI, Open Ended |
 | 🟢 | [E-Techh Hacks](https://e-techh-hacks.devpost.com/) | 🌐 Online | Oct 04 - Dec 19, 2025 | $0 | Beginner Friendly, Low/No Code, Machine Learning/AI |
-| 🟢 | [CheerpJ: The Hackathon](https://cheerpj-the-hackathon.devpost.com/) | 📍 Nexus, University of Leeds | Sep 01 - Dec 01, 2025 | £0 | Beginner Friendly, Web, Education |
 | 🟢 | [Arctic League of Code](https://arctic-league-of-code.devpost.com/) | 🌐 Online | Nov 07 - 30, 2025 | $5,500 | Beginner Friendly, Low/No Code, Social Good |
+| 🟢 | [CheerpJ: The Hackathon](https://cheerpj-the-hackathon.devpost.com/) | 📍 Nexus, University of Leeds | Sep 01 - Dec 01, 2025 | £0 | Beginner Friendly, Web, Education |
 | 🟢 | [GridDB Cloud IoT Hackathon](https://griddb-iot-hackathon.devpost.com/) | 📍 Hotel Davanam Sarovar Portico Suites | Oct 20 - Dec 14, 2025 | $5,000 | IoT, Databases, Enterprise |
 | 🟢 | [Ingeniería sin limites](https://fit-x-one-card.devpost.com/) | 📍 Universidad de Montemorelos | Nov 13 - Dec 02, 2025 | $0 | Beginner Friendly, Education, Fintech |
 | 🟢 | [UI/UX Design Hackathon (Gain Professional Feedback!)](https://ui-ux-design-hackathon-26776.devpost.com/) | 🌐 Online | Oct 08 - Nov 30, 2025 | $0 | Beginner Friendly, Design, Social Good |
-| 🟢 | [Innovative minds](https://innovative-minds.devpost.com/) | 🌐 Online | Nov 07 - 21, 2025 | £0 | Beginner Friendly, Social Good, Web |
-| 🟢 | [PeerBridge Mental Health Hacks](https://peerbridge-mental-health-hacks.devpost.com/) | 🌐 Online | Nov 04 - Dec 22, 2025 | $11,760 | Communication, Health, Machine Learning/AI |
-| 🟢 | [2025-2026 Fall ESE Senior Design](https://ese4500f25.devpost.com/) | 📍 Philadelphia, PA, USA | Sep 23 - Dec 18, 2025 | $0 | AR/VR, Open Ended, Robotic Process Automation |
 | 🟢 | [HackMars 1.0](https://hackmars-1.devpost.com/) | 🌐 Online | Nov 20 - Dec 20, 2025 | $2,560 | Education, Machine Learning/AI, Productivity |
-| 🟢 | [Student HackPad 2026](https://student-hackpad-2026.devpost.com/) | 🌐 Online | Nov 17, 2025 - Jan 15, 2026 | $0 | Beginner Friendly, Low/No Code, Social Good |
+| 🟢 | [PeerBridge Mental Health Hacks](https://peerbridge-mental-health-hacks.devpost.com/) | 🌐 Online | Nov 04 - Dec 22, 2025 | $11,760 | Communication, Health, Machine Learning/AI |
 | 🟢 | [Deep Learning Day Fall 2025](https://brown-deep-learning-day-f25.devpost.com/) | 📍 Sayles Hall | Nov 16 - Dec 14, 2025 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
+| 🟢 | [2025-2026 Fall ESE Senior Design](https://ese4500f25.devpost.com/) | 📍 Philadelphia, PA, USA | Sep 23 - Dec 18, 2025 | $0 | AR/VR, Open Ended, Robotic Process Automation |
+| 🟢 | [FitchGroup Codeathon '25 - Drive Sustainability using AI - Chicago (Hybrid)](https://drive-sustainability-using-ai.devpost.com/) | 📍 UBS Tower (Floor 23) | Nov 21 - 24, 2025 | $0 | Machine Learning/AI |
 | 🟢 | [Arc - Image-to-model tool](https://arc-image-to-model-tool.devpost.com/) | 🌐 Online | Oct 30 - Nov 29, 2025 | $55 | Design, Productivity, Web |
 | 🟢 | [ESE 1110 Fall 2025 (Deliwala)](https://ese1110f25.devpost.com/) | 📍 Moore building  | Oct 29 - Dec 15, 2025 | $0 | Education |
 | 🟢 | [PyTorch Dendritic Optimization Hackathon](https://pytorch-dendritic-optimization.devpost.com/) | 📍 Fronteir Tower | Oct 24, 2025 - Jan 05, 2026 | $18,500 | IoT, Machine Learning/AI |
 | 🟢 | [The CAD Challenge](https://cad-challenge.devpost.com/) | 🌐 Online | Nov 19 - 24, 2025 | $300 | Beginner Friendly, Design |
+| 🟢 | [Toronto Anthropic AI Hackathon](https://anthropic-ai-hackathon-toronto.devpost.com/) | 📍 Bahen Center for Information Technology | Nov 19 - 23, 2025 | $CAD 0 | Design, Machine Learning/AI, Social Good |
+| 🟢 | [Strathspace Hack Day](https://strathspace-hack-day.devpost.com/) | 🌐 Online | Oct 27 - Nov 26, 2025 | $0 | Beginner Friendly, Machine Learning/AI |
