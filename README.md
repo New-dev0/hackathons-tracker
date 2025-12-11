@@ -22,32 +22,32 @@
 | 🟢 | [SAP Business AI Innovation Challenge](https://sap.devpost.com/) | 🌐 Online | Dec 01, 2025 - Jan 07, 2026 | $0 | Enterprise, Machine Learning/AI, Low/No Code |
 | 🟢 | [Code Spring ](https://code-spring.devpost.com/) | 🌐 Online | Nov 13 - Dec 30, 2025 | $5,800 | Beginner Friendly, Machine Learning/AI, Productivity |
 | 🟢 | [Snow Fest](https://snowfest.devpost.com/) | 🌐 Online | Nov 12 - Dec 11, 2025 | $2,200 | Beginner Friendly, Low/No Code, Social Good |
-| 🟢 | [Hoobit International Ideathon](https://hoobit-ideathon.devpost.com/) | 🌐 Online | Nov 24 - Dec 13, 2025 | $19,870 | Beginner Friendly, Low/No Code, Social Good |
-| 🟢 | [Tuya AI Innovators Hackathon 2025](https://tuya-ai-innovators-hackathon.devpost.com/) | 🌐 Online | Dec 08 - 20, 2025 | $154,200 | DevOps, IoT, Machine Learning/AI |
-| 🟢 | [CodeCraze](https://codecraze.devpost.com/) | 🌐 Online | Nov 27 - Dec 15, 2025 | $5,000 | Education, Fintech, Health |
-| 🟢 | [Hackonomics 2026](https://hackonomics26.devpost.com/) | 🌐 Online | Sep 01, 2025 - Mar 30, 2026 | $0 | Beginner Friendly, Education, Open Ended |
 | 🟢 | [Build your Flutter Butler with Serverpod](https://serverpod.devpost.com/) | 🌐 Online | Dec 09, 2025 - Jan 30, 2026 | $10,000 | Mobile, Productivity, Lifehacks |
-| 🟢 | [InnovArt 2026: Art and Technology Hack Day](https://innovart2026.devpost.com/) | 🌐 Online | Sep 04, 2025 - Jan 03, 2026 | $0 | Design, IoT, Music/Art |
+| 🟢 | [Hoobit International Ideathon](https://hoobit-ideathon.devpost.com/) | 🌐 Online | Nov 24 - Dec 13, 2025 | $19,870 | Beginner Friendly, Low/No Code, Social Good |
+| 🟢 | [CodeCraze](https://codecraze.devpost.com/) | 🌐 Online | Nov 27 - Dec 15, 2025 | $5,000 | Education, Fintech, Health |
+| 🟢 | [Tuya AI Innovators Hackathon 2025](https://tuya-ai-innovators-hackathon.devpost.com/) | 🌐 Online | Dec 08 - 30, 2025 | $154,200 | DevOps, IoT, Machine Learning/AI |
+| 🟢 | [Hackonomics 2026](https://hackonomics26.devpost.com/) | 🌐 Online | Sep 01, 2025 - Mar 30, 2026 | $0 | Beginner Friendly, Education, Open Ended |
 | 🟢 | [PeerBridge Mental Health Hacks](https://peerbridge-mental-health-hacks.devpost.com/) | 🌐 Online | Nov 04 - Dec 22, 2025 | $51,745 | Communication, Health, Machine Learning/AI |
-| 🟢 | [Arctic League of Code](https://arctic-league-of-code.devpost.com/) | 🌐 Online | Nov 07 - Dec 30, 2025 | $5,500 | Social Good, Design, Machine Learning/AI |
+| 🟢 | [InnovArt 2026: Art and Technology Hack Day](https://innovart2026.devpost.com/) | 🌐 Online | Sep 04, 2025 - Jan 03, 2026 | $0 | Design, IoT, Music/Art |
 | 🟢 | [HackMars 1.0](https://hackmars-1.devpost.com/) | 🌐 Online | Nov 20 - Dec 20, 2025 | $2,560 | Education, Machine Learning/AI, Productivity |
-| 🟢 | [Student HackPad 2026](https://student-hackpad-2026.devpost.com/) | 🌐 Online | Dec 05, 2025 - Jan 15, 2026 | $0 | Beginner Friendly, Low/No Code, Social Good |
+| 🟢 | [Arctic League of Code](https://arctic-league-of-code.devpost.com/) | 🌐 Online | Nov 07 - Dec 30, 2025 | $5,500 | Social Good, Design, Machine Learning/AI |
 | 🟢 | [GridDB Cloud IoT Hackathon](https://griddb-iot-hackathon.devpost.com/) | 📍 Hotel Davanam Sarovar Portico Suites | Oct 20 - Dec 21, 2025 | $5,000 | IoT, Databases, Enterprise |
+| 🟢 | [Octopus Hackathon](https://octopushack.devpost.com/) | 🌐 Online | Dec 01 - 29, 2025 | $3,600 | Beginner Friendly, Education, Low/No Code |
+| 🟢 | [Student HackPad 2026](https://student-hackpad-2026.devpost.com/) | 🌐 Online | Dec 05, 2025 - Jan 15, 2026 | $0 | Beginner Friendly, Low/No Code, Social Good |
 | 🟢 | [E-Techh Hacks](https://e-techh-hacks.devpost.com/) | 🌐 Online | Oct 04 - Dec 19, 2025 | $0 | Beginner Friendly, Low/No Code, Machine Learning/AI |
+| 🟢 | [Hex-a-thon](https://hex-a-thon.devpost.com/) | 🌐 Online | Dec 09, 2025 - Jan 22, 2026 | $10,000 | Databases, Machine Learning/AI, Open Ended |
 | 🟢 | [AETHRA GLOBAL HACKATHON 2025](https://aethra-global-hackathon-2025.devpost.com/) | 🌐 Online | Nov 14 - Dec 31, 2025 | $2,547 | Beginner Friendly, Open Ended, Social Good |
 | 🟢 | [NeoGenesis Hackathon](https://neogenesis-hackathon.devpost.com/) | 🌐 Online | Nov 20 - Dec 31, 2025 | ₹ 33,000 | AR/VR, Blockchain, Fintech |
-| 🟢 | [AETHRA GLOBAL GAMETHON 2025 ](https://aethra-global-gamethon-2025.devpost.com/) | 🌐 Online | Nov 14 - Dec 31, 2025 | $2,447 | Beginner Friendly, Gaming, Low/No Code |
 | 🟢 | [Launchly Project Sprint](https://launchly.devpost.com/) | 🌐 Online | Nov 23 - Dec 20, 2025 | $35,550 | Beginner Friendly, Open Ended, Social Good |
+| 🟢 | [AETHRA GLOBAL GAMETHON 2025 ](https://aethra-global-gamethon-2025.devpost.com/) | 🌐 Online | Nov 14 - Dec 31, 2025 | $2,447 | Beginner Friendly, Gaming, Low/No Code |
 | 🟢 | [AETHRA GLOBAL VIBEATHON 2025](https://aethra-global-vibeathon-2025.devpost.com/) | 🌐 Online | Nov 14 - Dec 31, 2025 | $2,447 | Beginner Friendly, Open Ended, Machine Learning/AI |
 | 🟢 | [AETHRA GLOBAL PITCHATHON 2025 ](https://aethra-global-pitchathon-2025.devpost.com/) | 🌐 Online | Nov 27 - Dec 31, 2025 | $2,447 | Beginner Friendly, Low/No Code, Open Ended |
-| 🟢 | [Hex-a-thon](https://hex-a-thon.devpost.com/) | 🌐 Online | Dec 09, 2025 - Jan 22, 2026 | $10,000 | Databases, Machine Learning/AI, Open Ended |
-| 🟢 | [Teca Hacks](https://teca-hack.devpost.com/) | 🌐 Online | Nov 25, 2025 - Jan 01, 2026 | $0 | Beginner Friendly, Education, Machine Learning/AI |
-| 🟢 | [AETHRA GLOBAL BRANDATHON 2025](https://aethra-global-brandathon-2025.devpost.com/) | 🌐 Online | Dec 05 - 31, 2025 | $2,447 | Enterprise, Low/No Code, Music/Art |
+| 🟢 | [Sky’s the Limit - Cloud9 x JetBrains Hackathon](https://cloud9.devpost.com/) | 🌐 Online | Dec 09, 2025 - Feb 03, 2026 | $25,000 | Gaming, Databases, Machine Learning/AI |
 | 🟢 | [Build From Scratch - Season I](https://build-from-scratch.devpost.com/) | 🌐 Online | Dec 04 - 25, 2025 | $0 | Beginner Friendly, Open Ended, Social Good |
+| 🟢 | [AETHRA GLOBAL BRANDATHON 2025](https://aethra-global-brandathon-2025.devpost.com/) | 🌐 Online | Dec 05 - 31, 2025 | $2,447 | Enterprise, Low/No Code, Music/Art |
+| 🟢 | [Teca Hacks](https://teca-hack.devpost.com/) | 🌐 Online | Nov 25, 2025 - Jan 01, 2026 | $0 | Beginner Friendly, Education, Machine Learning/AI |
 | 🟢 | [Innerve X](https://innerve-x.devpost.com/) | 📍 Army Institute Of Technology, Pune | Nov 20 - Dec 15, 2025 | ₹ 305,000 | Blockchain, Fintech, Health |
 | 🟢 | [Deep Learning Day Fall 2025](https://brown-deep-learning-day-f25.devpost.com/) | 📍 Sayles Hall | Nov 16 - Dec 14, 2025 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
 | 🟢 | [Byte 2 Beat](https://byte2beat.devpost.com/) | 🌐 Online | Dec 05, 2025 - Feb 14, 2026 | $0 | Beginner Friendly, Health, Machine Learning/AI |
-| 🟢 | [E-NOVATE HACKATHON ZIMBABWE 2025](https://e-novate-hackathon-2025.devpost.com/) | 📍 Rainbow Towers Harare | Dec 05 - 10, 2025 | $1 | Machine Learning/AI, Mobile, Robotic Process Automation |
 | 🟢 | [PyTorch Dendritic Optimization Hackathon](https://pytorch-dendritic-optimization.devpost.com/) | 📍 Fronteir Tower | Oct 24, 2025 - Jan 05, 2026 | $18,500 | IoT, Machine Learning/AI |
-| 🟢 | [2025-2026 Fall ESE Senior Design](https://ese4500f25.devpost.com/) | 📍 Philadelphia, PA, USA | Sep 23 - Dec 18, 2025 | $0 | AR/VR, Open Ended, Robotic Process Automation |
 | 🟢 | [CodeFest Hackathon 2025 SubmissionPortal | Register@codefesthack2025.vercel.app](https://codefesthack2025.devpost.com/) | 🌐 Online | Dec 08 - 16, 2025 | $0 | Beginner Friendly, DevOps, IoT |
