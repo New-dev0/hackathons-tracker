@@ -35,9 +35,9 @@
 | 🟢 | [AETHRA GLOBAL PITCHATHON 2025 ](https://aethra-global-pitchathon-2025.devpost.com/) | 🌐 Online | Nov 27 - Dec 31, 2025 | $0 | Beginner Friendly, Low/No Code, Open Ended |
 | 🟢 | [FinBilim FinTech Hackathon 2025](https://finbilim25.devpost.com/) | 🌐 Online | Dec 01 - 29, 2025 | $0 | Beginner Friendly, Education, Low/No Code |
 | 🟢 | [PyTorch Dendritic Optimization Hackathon](https://pytorch-dendritic-optimization.devpost.com/) | 📍 Fronteir Tower | Oct 24, 2025 - Jan 05, 2026 | $18,500 | IoT, Machine Learning/AI |
-| 🟢 | [AETHRA GLOBAL BRANDATHON 2025](https://aethra-global-brandathon-2025.devpost.com/) | 🌐 Online | Dec 05 - 31, 2025 | $0 | Enterprise, Low/No Code, Music/Art |
-| 🟢 | [Teca Hacks](https://teca-hack.devpost.com/) | 🌐 Online | Nov 25, 2025 - Jan 01, 2026 | $0 | Beginner Friendly, Education, Machine Learning/AI |
 | 🟢 | [Code With antigravity by GOOGLE](https://antigravity.devpost.com/) | 🌐 Online | Dec 25 - 31, 2025 | $0 | Databases, DevOps, E-commerce/Retail |
+| 🟢 | [Teca Hacks](https://teca-hack.devpost.com/) | 🌐 Online | Nov 25, 2025 - Jan 01, 2026 | $0 | Beginner Friendly, Education, Machine Learning/AI |
+| 🟢 | [AETHRA GLOBAL BRANDATHON 2025](https://aethra-global-brandathon-2025.devpost.com/) | 🌐 Online | Dec 05 - 31, 2025 | $0 | Enterprise, Low/No Code, Music/Art |
 | 🟢 | [Byte 2 Beat](https://byte2beat.devpost.com/) | 🌐 Online | Dec 05, 2025 - Feb 14, 2026 | $0 | Beginner Friendly, Health, Machine Learning/AI |
 | 🟢 | [Digital Innovation Challenge 2025 - Finance Track](https://dic-2025-finance-track.devpost.com/) | 🌐 Online | Nov 20 - Dec 29, 2025 | $15,500 | Fintech, Machine Learning/AI, Social Good |
 | 🟢 | [Hackmas: HackMars 2.0](https://hackmars-2.devpost.com/) | 🌐 Online | Dec 10 - 31, 2025 | $0 | Education, Machine Learning/AI, Productivity |
@@ -45,9 +45,9 @@
 | 🟢 | [FounderForge](https://founderforge1.devpost.com/) | 🌐 Online | Dec 05, 2025 - Jan 25, 2026 | $200 | Low/No Code, Machine Learning/AI, Robotic Process Automation |
 | 🟢 | [DeepSeek vs. Llama: The "Kill The Cloud" Challenge](https://deepseek.devpost.com/) | 🌐 Online | Dec 13, 2025 - Jan 30, 2026 | $150 | Machine Learning/AI, Mobile, Social Good |
 | 🟢 | [LavaPunk](https://lavapunk.devpost.com/) | 🌐 Online | Dec 24, 2025 - Jan 25, 2026 | $1,400 | Databases, Education, Web |
+| 🟢 | [Foru.ms x v0 by Vercel Hackathon](https://foru-ms-v0.devpost.com/) | 🌐 Online | Dec 24 - 31, 2025 | $350 | Communication, Productivity, Web |
 | 🟢 | [305 Hack Jan'26 SubmissionPortal | Register@hackuniversity-hackathons.vercel.app](https://305hackjan2026.devpost.com/) | 🌐 Online | Dec 24, 2025 - Jan 24, 2026 | $0 | Web |
 | 🟢 | [Strathspace Hack Day](https://strathspace-hack-day.devpost.com/) | 🌐 Online | Oct 27, 2025 - Feb 26, 2026 | $0 | Beginner Friendly, Machine Learning/AI |
-| 🟢 | [Foru.ms x v0 by Vercel Hackathon](https://foru-ms-v0.devpost.com/) | 🌐 Online | Dec 24 - 31, 2025 | $350 | Communication, Productivity, Web |
 | 🟢 | [December AI Challenge](https://december-ai-challenge.devpost.com/) | 🌐 Online | Dec 13, 2025 - Jan 05, 2026 | $200 | Beginner Friendly, Machine Learning/AI, Open Ended |
 | 🟢 | [Global Innovation Build Challenge V1](https://global-innovation-challenge-v1.devpost.com/) | 🌐 Online | Dec 13, 2025 - Feb 28, 2026 | $0 | Beginner Friendly, Machine Learning/AI, Web |
 | 🟢 | [Africa Digital ID Hackathon 2026](https://africadigitalidhackathon2026.devpost.com/) | 🌐 Online | Nov 18, 2025 - Feb 07, 2026 | $0 | Beginner Friendly, Social Good |
