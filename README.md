@@ -6,17 +6,17 @@
 
 | Status | Title | Location | Submission Period | Prize | Themes |
 |--------|--------|----------|-------------------|-------|--------|
-| 🟢 | [Gemini 3 Hackathon](https://gemini3.devpost.com/) | 🌐 Online | Dec 17, 2025 - Feb 09, 2026 | $100,000 | Machine Learning/AI, Open Ended, Social Good |
 | 🟢 | [RevenueCat Shipyard: Creator Contest ](https://revenuecat-shipyard-2026.devpost.com/) | 🌐 Online | Jan 15 - Feb 12, 2026 | $165,000 | Mobile, Design, Low/No Code |
-| 🟢 | [The Reddit Daily Games Hackathon](https://redditdailygames2026.devpost.com/) | 🌐 Online | Jan 15 - Feb 12, 2026 | $40,000 | Beginner Friendly, Gaming, Web |
 | 🟢 | [Amazon Nova AI Hackathon](https://amazon-nova.devpost.com/) | 🌐 Online | Feb 02 - Mar 16, 2026 | $40,000 | Machine Learning/AI, Beginner Friendly, Social Good |
-| 🟢 | [DigitalOcean Gradient™ AI Hackathon](https://digitalocean.devpost.com/) | 🌐 Online | Jan 28 - Mar 18, 2026 | $20,000 | Databases, Machine Learning/AI, Open Ended |
+| 🟢 | [The Reddit Daily Games Hackathon](https://redditdailygames2026.devpost.com/) | 🌐 Online | Jan 15 - Feb 12, 2026 | $40,000 | Beginner Friendly, Gaming, Web |
 | 🟢 | [Elasticsearch Agent Builder Hackathon](https://elasticsearch.devpost.com/) | 🌐 Online | Jan 22 - Feb 27, 2026 | $20,000 | Databases, Machine Learning/AI, Serverless |
 | 🟢 | [DevStudio 2026 by Logitech](https://devstudiologitech2026.devpost.com/) | 🌐 Online | Jan 21 - Feb 25, 2026 | $20,000 | AR/VR, Open Ended, Productivity |
+| 🟢 | [DigitalOcean Gradient™ AI Hackathon](https://digitalocean.devpost.com/) | 🌐 Online | Jan 28 - Mar 18, 2026 | $20,000 | Databases, Machine Learning/AI, Open Ended |
 | 🟢 | [DeveloperWeek 2026 Hackathon](https://developerweek-2026-hackathon.devpost.com/) | 📍 San Jose Convention Center + Online | Feb 03 - 20, 2026 | $9,000 | DevOps, Enterprise, IoT |
 | 🟢 | [Hackonomics 2026](https://hackonomics26.devpost.com/) | 🌐 Online | Jan 23 - Mar 30, 2026 | $0 | Beginner Friendly, Education, Open Ended |
-| 🟢 | [Byte 2 Beat](https://byte2beat.devpost.com/) | 🌐 Online | Dec 05, 2025 - Feb 28, 2026 | $300 | Beginner Friendly, Health, Machine Learning/AI |
 | 🟢 | [Dev_Dash](https://devdash.devpost.com/) | 🌐 Online | Jan 26 - Feb 20, 2026 | $10,000 | Beginner Friendly, Machine Learning/AI, Social Good |
+| 🟢 | [Byte 2 Beat](https://byte2beat.devpost.com/) | 🌐 Online | Dec 05, 2025 - Feb 28, 2026 | $4,500 | Beginner Friendly, Health, Machine Learning/AI |
+| 🟢 | [GitLab AI Hackathon](https://gitlab.devpost.com/) | 🌐 Online | Feb 09 - Mar 25, 2026 | $65,000 | Databases, Machine Learning/AI, Productivity |
 | 🟢 | [Build4Students](https://build-4-students.devpost.com/) | 🌐 Online | Jan 13 - Feb 15, 2026 | $0 | Beginner Friendly, Education, Productivity |
 | 🟢 | [Code Spring ](https://codespring.devpost.com/) | 🌐 Online | Jan 20 - Feb 11, 2026 | $3,600 | Machine Learning/AI, Beginner Friendly, Productivity |
 | 🟢 | [Student HackPad 2026](https://student-hackpad-2026.devpost.com/) | 🌐 Online | Dec 05, 2025 - Feb 28, 2026 | $0 | Beginner Friendly, Low/No Code, Social Good |
@@ -38,16 +38,16 @@
 | 🟢 | [EnviroCast Global Engineering Outlook: Furthering the Future Hackathon](https://furthering-the-future.devpost.com/) | 🌐 Online | Dec 31, 2025 - Feb 13, 2026 | $0 | Open Ended, Productivity, Social Good |
 | 🟢 | [PROTO-THON'26](https://prince-proto-thon-26.devpost.com/) | 📍 prince dr k vasudevan college | Jan 22 - Feb 13, 2026 | ₹ 100,000 | Communication, Education, IoT |
 | 🟢 | [Intwana Yase Kasi – Innovation Challenge 2026](https://innochallenge-2026.devpost.com/) | 🌐 Online | Jan 21 - Feb 12, 2026 | $0 | Beginner Friendly, Music/Art, Social Good |
+| 🟢 | [HealthML Challenge](https://healthml-challenge.devpost.com/) | 🌐 Online | Feb 04 - 11, 2026 | $0 | Beginner Friendly, Health, Machine Learning/AI |
 | 🟢 | [Everything But the Byte](https://everything-but-the-byte.devpost.com/) | 🌐 Online | Jan 14 - Feb 25, 2026 | $50 | Beginner Friendly, Low/No Code |
 | 🟢 | [CJCP Hacks - 25-26](https://cjcp-hacks-fall2025.devpost.com/) | 🌐 Online | Dec 16, 2025 - Feb 16, 2026 | $0 | Machine Learning/AI, E-commerce/Retail, Fintech |
-| 🟢 | [HealthML Challenge](https://healthml-challenge.devpost.com/) | 🌐 Online | Feb 04 - 11, 2026 | $0 | Beginner Friendly, Health, Machine Learning/AI |
-| 🟢 | [Open Source Quest](https://osq-r3actr.devpost.com/) | 🌐 Online | Jan 31 - Feb 28, 2026 | ₹ 0 | Beginner Friendly, Cybersecurity, DevOps |
-| 🟢 | [Oink Game Jam 2026](https://oinkjam.devpost.com/) | 🌐 Online | Jan 23 - Feb 09, 2026 | $130 | Beginner Friendly, Gaming |
 | 🟢 | [Techinance Cyberhack 2](https://techinance-cyberhack-2.devpost.com/) | 🌐 Online | Jan 31 - Feb 10, 2026 | $0 | Beginner Friendly, Cybersecurity, Health |
+| 🟢 | [Open Source Quest](https://osq-r3actr.devpost.com/) | 🌐 Online | Jan 31 - Feb 28, 2026 | ₹ 0 | Beginner Friendly, Cybersecurity, DevOps |
 | 🟢 | [Presentation Api Agent](https://presentation-api-agent.devpost.com/) | 🌐 Online | Jan 16 - Feb 20, 2026 | £0 | Beginner Friendly, Low/No Code, Machine Learning/AI |
+| 🟢 | [Frisco Hacks 2026](https://friscohack.devpost.com/) | 🌐 Online | Feb 09 - 10, 2026 | $0 | Beginner Friendly, Gaming, Low/No Code |
+| 🟢 | [SattamThon](https://sattamthon.devpost.com/) | 🌐 Online | Feb 03 - 10, 2026 | $0 | Education, Machine Learning/AI, Productivity |
 | 🟢 | [2025-2026 Spring ESE Senior Design](https://ese4510s26.devpost.com/) | 🌐 Online | Jan 12 - Apr 30, 2026 | $0 | AR/VR, Open Ended, Robotic Process Automation |
 | 🟢 | [Career Launch 2026 - Computing Catalyst](https://career-launch-2026-catalyst.devpost.com/) | 🌐 Online | Jan 23 - Feb 11, 2026 | $0 | Beginner Friendly, Open Ended, Web |
-| 🟢 | [Hackbells 3.O](https://hackbells3-o.devpost.com/) | 📍 Padanilam, Nooranad, Kerala | Feb 02 - 09, 2026 | ₹ 150,000 | Beginner Friendly, Mobile, Web |
 | 🟢 | [Sinhgad Hackathon'26](https://sinhgad-hackathon-26.devpost.com/) | 📍 SKN Sinhgad College, Pandharpur | Feb 01 - 21, 2026 | ₹ 76,000 | Cybersecurity, Health, Machine Learning/AI |
+| 🟢 | [Hack For Her ](https://hack-for-her.devpost.com/) | 🌐 Online | Feb 09 - 13, 2026 | $50 | Education, Machine Learning/AI, Beginner Friendly |
 | 🟢 | [Code4Sudan: Pytorch Hackathon](https://code4sudan-pytorch-hackathon.devpost.com/) | 🌐 Online | Feb 01 - 28, 2026 | $100 | Beginner Friendly, Education, Machine Learning/AI |
-| 🟢 | [Hack FiestaMiami Feb'26 SubmissionPortal | hackuniversity-hackathons.vercel.app](https://305hackfeb2026.devpost.com/) | 🌐 Online | Jan 30 - Feb 14, 2026 | $0 | Beginner Friendly, DevOps, IoT |
