@@ -23,24 +23,24 @@
 | 🟢 | [AI For Good](https://ai-for-good-28231.devpost.com/) | 🌐 Online | Jan 31 - Feb 28, 2026 | ₹ 60,000 | Machine Learning/AI, Social Good |
 | 🟢 | [CircuitBreak 2025](https://circuitbreak-2025.devpost.com/) | 🌐 Online | Jan 01 - Mar 31, 2026 | ₹ 0 | IoT, Open Ended, Web |
 | 🟢 | [TechThrive March](https://techthrive-march-26.devpost.com/) | 🌐 Online | Jan 23 - Mar 31, 2026 | ₹ 16,000 | Beginner Friendly, Machine Learning/AI, Open Ended |
+| 🟢 | [GDE MIT - Minds and Machines Hackathon](https://gde-mit-hackathon.devpost.com/) | 📍 Gábor Dénes Egyetem | Feb 24 - 28, 2026 | €13,000 | Education, Health, Machine Learning/AI |
 | 🟢 | [Creator Colosseum Startup Competition: Student Founders. Real Startups. ](https://creatorcolosseumcompetition26.devpost.com/) | 🌐 Online | Jan 06 - Mar 26, 2026 | $575 | Beginner Friendly, Low/No Code, Social Good |
 | 🟢 | [Apertre 3.0](https://apertre.devpost.com/) | 🌐 Online | Jan 31 - Mar 01, 2026 | ₹ 50,000 | Beginner Friendly, Machine Learning/AI, Web |
 | 🟢 | [Strathspace Hack Day](https://strathspace-hack-day.devpost.com/) | 🌐 Online | Oct 27, 2025 - Feb 26, 2026 | $0 | Beginner Friendly, Machine Learning/AI |
-| 🟢 | [Martingale Hacks](https://martingale-hacks.devpost.com/) | 🌐 Online | Dec 09, 2025 - Feb 28, 2026 | $0 | Beginner Friendly, Fintech, Machine Learning/AI |
-| 🟢 | [CodeSprout Beginner’s Hackathon 2026](https://codesprout-hackathon-2026.devpost.com/) | 🌐 Online | Feb 14 - 28, 2026 | $0 | Beginner Friendly, Education, Low/No Code |
 | 🟢 | [TerraCode Convergence](https://terracode-convergence.devpost.com/) | 🌐 Online | Feb 21 - 26, 2026 | $5,000 | Beginner Friendly, DevOps, Open Ended |
-| 🟢 | [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com/) | 🌐 Online | Feb 14 - 28, 2026 | $0 | Beginner Friendly, Low/No Code, Open Ended |
+| 🟢 | [CodeSprout Beginner’s Hackathon 2026](https://codesprout-hackathon-2026.devpost.com/) | 🌐 Online | Feb 14 - 28, 2026 | $0 | Beginner Friendly, Education, Low/No Code |
+| 🟢 | [Martingale Hacks](https://martingale-hacks.devpost.com/) | 🌐 Online | Dec 09, 2025 - Feb 28, 2026 | $0 | Beginner Friendly, Fintech, Machine Learning/AI |
 | 🟢 | [API Innovate 2026](https://api-innovate-2026.devpost.com/) | 🌐 Online | Feb 14 - Mar 15, 2026 | ₹ 9,000 | Cybersecurity, Web, IoT |
-| 🟢 | [ORIGIN Hackathon](https://origin.devpost.com/) | 🌐 Online | Feb 04 - 24, 2026 | €0 | Beginner Friendly, Open Ended, Social Good |
+| 🟢 | [Learn It Global Hackathon V2](https://learnit-globalv2.devpost.com/) | 🌐 Online | Feb 14 - 28, 2026 | $0 | Beginner Friendly, Low/No Code, Open Ended |
 | 🟢 | [#75HER Challenge Hackathon 2026](https://75her-challenge.devpost.com/) | 🌐 Online | Feb 16 - Mar 08, 2026 | $1,500 | AR/VR, Blockchain, Machine Learning/AI |
 | 🟢 | [Everything But the Byte](https://everything-but-the-byte.devpost.com/) | 🌐 Online | Jan 14 - Feb 25, 2026 | $50 | Beginner Friendly, Low/No Code |
 | 🟢 | [SunnyHacks Feb 2026](https://sunnyhacks-feb-2026.devpost.com/) | 🌐 Online | Feb 01 - Mar 01, 2026 | $0 | Beginner Friendly, Machine Learning/AI |
-| 🟢 | [AI4PURPOSE-PALESTINE](https://ai4purpose.devpost.com/) | 📍 Birzeit  | Feb 14 - 24, 2026 | $1,000 | Education, Health, Machine Learning/AI |
-| 🟢 | [Prompt-a-Thon ](https://prompt-a-thon.devpost.com/) | 🌐 Online | Feb 13 - 25, 2026 | ₹ 0 | IoT, Machine Learning/AI, Web |
+| 🟢 | [Prompt-a-Thon ](https://prompt-a-thon.devpost.com/) | 🌐 Online | Feb 13 - Mar 04, 2026 | ₹ 0 | IoT, Machine Learning/AI, Web |
 | 🟢 | [Code4Sudan: Pytorch Hackathon](https://code4sudan-pytorch-hackathon.devpost.com/) | 🌐 Online | Feb 01 - 28, 2026 | $100 | Beginner Friendly, Education, Machine Learning/AI |
 | 🟢 | [HACK THE FUTURE OF STELLA](https://hack-the-future-of-stella.devpost.com/) | 📍 Orlando, Florida TECH HUB ORLANDO | Jan 30 - Mar 13, 2026 | $80,000 | DevOps, Enterprise, Machine Learning/AI |
-| 🟢 | [2025-2026 Spring ESE Senior Design](https://ese4510s26.devpost.com/) | 🌐 Online | Jan 12 - Apr 30, 2026 | $0 | AR/VR, Open Ended, Robotic Process Automation |
+| 🟢 | [UWB Hacks: The Future!](https://uwb-hacks-the-future.devpost.com/) | 📍 University of Washington Bothell - ARC | Feb 24 - Apr 26, 2026 | $0 | Beginner Friendly |
 | 🟢 | [HackFest](https://hackfest-2202.devpost.com/) | 🌐 Online | Feb 12 - Mar 05, 2026 | $0 | Cybersecurity, Design, Web |
+| 🟢 | [2025-2026 Spring ESE Senior Design](https://ese4510s26.devpost.com/) | 🌐 Online | Jan 12 - Apr 30, 2026 | $0 | AR/VR, Open Ended, Robotic Process Automation |
 | 🟢 | [ND Social Good Hackathon](https://nd-social-good-hackathon.devpost.com/) | 🌐 Online | Jan 28 - Mar 12, 2026 | $180 | Beginner Friendly, Low/No Code, Social Good |
 | 🟢 | [Hack Trek](https://hack-trek.devpost.com/) | 🌐 Online | Feb 17 - Apr 17, 2026 | ₹ 10,000 | Machine Learning/AI, Open Ended, Web |
 | 🟢 | [EnviroCast Global Engineering Outlook: From Insight to Impact Hackathon](https://from-insight-to-impact.devpost.com/) | 🌐 Online | Feb 16 - May 21, 2026 | $625 | Open Ended, Productivity, Social Good |
