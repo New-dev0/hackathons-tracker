@@ -29,13 +29,13 @@
 | 🟢 | [Github readme generation ](https://github-readme-generation.devpost.com/) | 🌐 Online | Apr 22 - Jul 06, 2026 | £0 | Beginner Friendly, Education, Low/No Code |
 | 🟢 | [NACOS X GDG AI Hackathon](https://nacos-x-gdg-ai-hackathon.devpost.com/) | 🌐 Online | Apr 01 - Jun 30, 2026 | $0 | Beginner Friendly, Machine Learning/AI, Web |
 | 🟢 | [Hoobit Hacks 2026](https://hoobit-hacks-2026.devpost.com/) | 🌐 Online | Mar 30 - Jul 01, 2026 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
-| 🟢 | [Your idea vs 1,000 other marketers. Let’s see where you actually stand. ](https://connectsblue.devpost.com/) | 🌐 Online | Apr 15 - Jun 14, 2026 | ₹ 10,000 | Beginner Friendly, Low/No Code, Open Ended |
 | 🟢 | [Optimization Grand Challenge 2026](https://ogc2026.devpost.com/) | 📍 LG CNS | May 24 - Jun 07, 2026 | $103,000 | Enterprise, Machine Learning/AI, Open Ended |
+| 🟢 | [Your idea vs 1,000 other marketers. Let’s see where you actually stand. ](https://connectsblue.devpost.com/) | 🌐 Online | Apr 15 - Jun 14, 2026 | ₹ 10,000 | Beginner Friendly, Low/No Code, Open Ended |
 | 🟢 | [CodeStorm](https://codestorm.devpost.com/) | 🌐 Online | Apr 24 - Jun 21, 2026 | $0 | Blockchain, Machine Learning/AI, Open Ended |
 | 🟢 | [SS Hacker Team Cybersecurity GLOBAL Challenge 2026](https://sshackerteamglobal.devpost.com/) | 🌐 Online | May 10 - Jun 10, 2026 | ₹ 0 | Cybersecurity, Education, Machine Learning/AI |
 | 🟢 | [Build the Future with AI — From Code to No-Code](https://build-the-future-with-ai.devpost.com/) | 🌐 Online | May 31 - Jun 30, 2026 | $0 | Low/No Code, Machine Learning/AI, Web |
-| 🟢 | [GenZ Can Hack 2026](https://genz-can-hack-2026.devpost.com/) | 📍 Toronto | Apr 01 - Aug 22, 2026 | $1,000 | Education, Machine Learning/AI, Robotic Process Automation |
 | 🟢 | [HackMars 3.0: NEON](https://hackmars-3-0-neon.devpost.com/) | 🌐 Online | May 16 - Jun 09, 2026 | $0 | Education, Machine Learning/AI, Productivity |
+| 🟢 | [GenZ Can Hack 2026](https://genz-can-hack-2026.devpost.com/) | 📍 Toronto | Apr 01 - Aug 22, 2026 | $1,000 | Education, Machine Learning/AI, Robotic Process Automation |
 | 🟢 | [GLITCHED GAMES](https://glitch-to-win-games.devpost.com/) | 🌐 Online | Apr 16 - Jun 30, 2026 | $0 | Gaming, Mobile, Web |
 | 🟢 | [Assistive Innovation Challenge 2026](https://assistive-innovation-challenge.devpost.com/) | 🌐 Online | May 04 - Aug 01, 2026 | $0 | Beginner Friendly, Health, Social Good |
 | 🟢 | [VoltHacks](https://volthacks.devpost.com/) | 🌐 Online | May 22 - Sep 05, 2026 | $700 | IoT, Machine Learning/AI, Beginner Friendly |
@@ -44,10 +44,10 @@
 | 🟢 | [AgentVerse](https://agentversemcp.devpost.com/) | 🌐 Online | May 29 - Jun 08, 2026 | ₹ 0 | Low/No Code, Web, Machine Learning/AI |
 | 🟢 | [Hack Days Unnao ](https://hack-days-unnao.devpost.com/) | 📍  Kanpur-Lucknow Highway, Nawabganj  | May 25 - Jun 20, 2026 | $0 | Beginner Friendly, Education, Low/No Code |
 | 🟢 | [Far Away ](https://faraway.devpost.com/) | 📍 Online&gt;Delhi India&gt;Japan | Jun 01 - 25, 2026 | $0 | Beginner Friendly |
+| 🟢 | [Quantumhack](https://quantumhack.devpost.com/) | 🌐 Online | May 31 - Jun 10, 2026 | $0 | Databases, Education, Health |
 | 🟢 | [Hack Begin](https://hack-begin.devpost.com/) | 🌐 Online | May 19 - Jun 25, 2026 | $0 | Blockchain, Machine Learning/AI, Open Ended |
 | 🟢 | [DEMOKHE](https://demokhe.devpost.com/) | 🌐 Online | Mar 24, 2026 - Mar 24, 2030 | $0 | Education, IoT, Machine Learning/AI |
-| 🟢 | [Quantumhack](https://quantumhack.devpost.com/) | 🌐 Online | May 31 - Jun 10, 2026 | $0 | Databases, Education, Health |
-| 🟢 | [SunnyHacks June 2026](https://sunnyhacks-june-2026.devpost.com/) | 🌐 Online | Jun 01 - Jul 01, 2026 | $0 | Beginner Friendly, Machine Learning/AI |
 | 🟢 | [Ventura Challenge](https://ventura-challenge.devpost.com/) | 🌐 Online | Jun 01 - Jul 15, 2026 | $0 | Beginner Friendly, Design, E-commerce/Retail |
-| 🟢 | [AgentCamp Hack-Day Ibadan](https://agentcamp-hack-day-hackathon.devpost.com/) | 📍 Faculty of Economics Room 005, UI | May 09 - Jun 05, 2026 | $0 | E-commerce/Retail, Machine Learning/AI, Social Good |
 | 🟢 | [Aar$h# CodeStorm](https://aar-h-codestorm.devpost.com/) | 🌐 Online | May 11 - Jun 13, 2026 | $0 | Enterprise, Machine Learning/AI, Productivity |
+| 🟢 | [AgentCamp Hack-Day Ibadan](https://agentcamp-hack-day-hackathon.devpost.com/) | 📍 Faculty of Economics Room 005, UI | May 09 - Jun 05, 2026 | $0 | E-commerce/Retail, Machine Learning/AI, Social Good |
+| 🟢 | [SunnyHacks June 2026](https://sunnyhacks-june-2026.devpost.com/) | 🌐 Online | Jun 01 - Jul 01, 2026 | $0 | Beginner Friendly, Machine Learning/AI |
