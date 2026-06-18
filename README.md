@@ -20,34 +20,34 @@
 | 🟢 | [Creator Colosseum Startup Competition: Student Founders. Real Startups. ](https://creatorcolosseum.devpost.com/) | 🌐 Online | Apr 24 - Jun 30, 2026 | $575 | Beginner Friendly, Low/No Code, Social Good |
 | 🟢 | [PhysTech 2026: Physical Activity and Technology Hack Day](https://phystech-2026.devpost.com/) | 🌐 Online | Feb 08 - Jun 27, 2026 | $0 | Education, Health, IoT |
 | 🟢 | [Github readme generation ](https://github-readme-generation.devpost.com/) | 🌐 Online | Apr 22 - Jul 06, 2026 | £0 | Beginner Friendly, Education, Low/No Code |
+| 🟢 | [Agentic AI Build Week 2026](https://agentic-ai-build-week-2026.devpost.com/) | 📍 Galaxy Innovation Park | Jun 09 - Jul 12, 2026 | $898 | Machine Learning/AI |
 | 🟢 | [Build the Future with AI — From Code to No-Code](https://build-the-future-with-ai.devpost.com/) | 🌐 Online | May 31 - Jun 30, 2026 | $0 | Low/No Code, Machine Learning/AI, Web |
 | 🟢 | [NACOS X GDG AI Hackathon](https://nacos-x-gdg-ai-hackathon.devpost.com/) | 🌐 Online | Apr 01 - Jun 30, 2026 | $0 | Beginner Friendly, Machine Learning/AI, Web |
 | 🟢 | [Hoobit Hacks 2026](https://hoobit-hacks-2026.devpost.com/) | 🌐 Online | Mar 30 - Jul 18, 2026 | $0 | Beginner Friendly, Machine Learning/AI, Social Good |
-| 🟢 | [Agentic AI Build Week 2026](https://agentic-ai-build-week-2026.devpost.com/) | 📍 Galaxy Innovation Park | Jun 09 - Jul 12, 2026 | $898 | Machine Learning/AI |
-| 🟢 | [Play with Purpose Hackathon presented by Cox Enterprises](https://play-with-purpose-hackathon.devpost.com/) | 📍 The Biltmore Innovation Center | Jun 11 - 17, 2026 | $0 | Beginner Friendly, Social Good |
+| 🟢 | [Reddit’s Games with a Hook Hackathon](https://redditgameswithahook.devpost.com/) | 🌐 Online | Jun 17 - Jul 15, 2026 | $40,000 | Beginner Friendly, Gaming, Web |
 | 🟢 | [Kaya AI IIT India Hackathon 2026](https://kaya-ai-iit-hackathon-2026.devpost.com/) | 🌐 Online | Jun 10 - Jul 10, 2026 | ₹ 350,000 | IoT, Machine Learning/AI, Enterprise |
 | 🟢 | [FutureAI Global Hackathon 2026](https://futureai-global-hackthon.devpost.com/) | 🌐 Online | May 29 - Jul 05, 2026 | $0 | Beginner Friendly, Machine Learning/AI, Open Ended |
+| 🟢 | [Moonshot Hackathon](https://moonshot-aethra.devpost.com/) | 🌐 Online | Jun 03 - 30, 2026 | $33,532 | Beginner Friendly, Machine Learning/AI, Open Ended |
 | 🟢 | [AI for Civic Innovation Hackathon](https://ai-for-civic-innovation.devpost.com/) | 📍 FAST NUCES, Islamabad Campus | Jun 09 - 18, 2026 | $890 | Social Good, Machine Learning/AI |
 | 🟢 | [Global Tech Innovation 2026](https://global-tech-innovation-2026.devpost.com/) | 🌐 Online | Jun 10 - 30, 2026 | $0 | Cybersecurity, IoT, Web |
-| 🟢 | [VoltHacks](https://volthacks.devpost.com/) | 🌐 Online | May 22 - Sep 05, 2026 | $2,080 | IoT, Machine Learning/AI, Beginner Friendly |
-| 🟢 | [Moonshot Hackathon](https://moonshot-aethra.devpost.com/) | 🌐 Online | Jun 03 - 30, 2026 | $33,532 | Beginner Friendly, Machine Learning/AI, Open Ended |
 | 🟢 | [Built with Python Hackathon](https://built-with-python-hackathon.devpost.com/) | 🌐 Online | Jun 06 - 20, 2026 | $0 | Beginner Friendly, Education, Machine Learning/AI |
+| 🟢 | [VoltHacks](https://volthacks.devpost.com/) | 🌐 Online | May 22 - Sep 05, 2026 | $2,080 | IoT, Machine Learning/AI, Beginner Friendly |
 | 🟢 | [Assistive Innovation Challenge 2026](https://assistive-innovation-challenge.devpost.com/) | 🌐 Online | May 04 - Aug 01, 2026 | $0 | Beginner Friendly, Health, Social Good |
-| 🟢 | [Brainwave](https://brainwaves.devpost.com/) | 🌐 Online | Jun 12 - 30, 2026 | $1,000 | AR/VR, Blockchain, Communication |
+| 🟢 | [Brainwave 2026](https://brainwaves.devpost.com/) | 🌐 Online | Jun 12 - Aug 09, 2026 | $1,000 | AR/VR, Blockchain, Communication |
 | 🟢 | [GLITCHED GAMES](https://glitch-to-win-games.devpost.com/) | 🌐 Online | Apr 16 - Jun 30, 2026 | $0 | Gaming, Mobile, Web |
 | 🟢 | [HACKFEST'26](https://hackfest-26.devpost.com/) | 🌐 Online | Jun 07 - 22, 2026 | $0 | Fintech, Health, Machine Learning/AI |
 | 🟢 | [SNS Bold.ai](https://sns-bold-ai.devpost.com/) | 📍 Saravanampatti, Tamilnadu - 641035 | Jun 01 - 30, 2026 | ₹ 1,000,000 | Machine Learning/AI, Robotic Process Automation |
 | 🟢 | [GenZ Can Hack 2026](https://genz-can-hack-2026.devpost.com/) | 📍 Toronto | Apr 01 - Aug 22, 2026 | $1,000 | Education, Machine Learning/AI, Robotic Process Automation |
 | 🟢 | [DevSoc Starlight 2026](https://devsoc-starlight-2026.devpost.com/) | 📍 UNSW Roundhouse | Apr 28 - Jul 10, 2026 | $1,050 | Beginner Friendly, Mobile, Web |
 | 🟢 | [Build with Gemini](https://build-with-gemini-0.devpost.com/) | 🌐 Online | Jun 09 - 26, 2026 | $0 | Beginner Friendly, Education, Web |
+| 🟢 | [Africa Deep Tech Challenge 2026](https://adtc-2026.devpost.com/) | 🌐 Online | Jun 17 - Aug 27, 2026 | $16,500 | Machine Learning/AI, Productivity |
 | 🟢 | [InnovatorsX: Startup Sprint](https://innovatorsx.devpost.com/) | 🌐 Online | Jun 05 - 21, 2026 | $0 | Beginner Friendly, Design, E-commerce/Retail |
 | 🟢 | [Far Away ](https://faraway.devpost.com/) | 📍 Online&gt;Delhi India&gt;Japan | Jun 01 - 25, 2026 | $0 | Beginner Friendly |
 | 🟢 | [1st Nature's Blueprint Ideathon 2026 !!](https://naturesblueprint.devpost.com/) | 🌐 Online | May 31 - Jun 30, 2026 | $0 | Beginner Friendly, Education, Social Good |
-| 🟢 | [Hack Days Unnao ](https://hack-days-unnao.devpost.com/) | 📍  Kanpur-Lucknow Highway, Nawabganj  | May 25 - Jun 20, 2026 | $0 | Beginner Friendly, Education, Low/No Code |
 | 🟢 | [India High School Exoplanet Data Challenge](https://celesta-exoplanet-challenge.devpost.com/) | 🌐 Online | Jun 15 - Jul 31, 2026 | $10,300 | Beginner Friendly, Low/No Code, Machine Learning/AI |
-| 🟢 | [Ventura Challenge](https://ventura-challenge.devpost.com/) | 🌐 Online | Jun 01 - Jul 29, 2026 | $0 | Beginner Friendly, Design, E-commerce/Retail |
-| 🟢 | [Hack Begin](https://hack-begin.devpost.com/) | 🌐 Online | May 19 - Jun 25, 2026 | $0 | Blockchain, Machine Learning/AI, Open Ended |
+| 🟢 | [SummerBuild 2026](https://summerbuild-2026.devpost.com/) | 📍 NTU North Spine | May 25 - Jun 18, 2026 | $500 | Beginner Friendly |
+| 🟢 | [Hack Days Unnao ](https://hack-days-unnao.devpost.com/) | 📍  Kanpur-Lucknow Highway, Nawabganj  | May 25 - Jun 20, 2026 | $0 | Beginner Friendly, Education, Low/No Code |
 | 🟢 | [Cyber_Coders](https://cybercoders2026.devpost.com/) | 🌐 Online | Jun 13 - 22, 2026 | $18 | Cybersecurity, Web |
-| 🟢 | [AI for Learning & Development Build Challenge — AI Collective HR + Regent](https://ai-challenge-regent-aichr.devpost.com/) | 📍 Regent University | Jun 04 - 18, 2026 | $0 | Beginner Friendly, Education, Machine Learning/AI |
-| 🟢 | [Hyperbloom Summer Hackathon](https://hyperbloom-summer-hackathon.devpost.com/) | 🌐 Online | Jun 07 - 30, 2026 | $0 | Education, Open Ended, Social Good |
-| 🟢 | [SunnyHacks June 2026](https://sunnyhacks-june-2026.devpost.com/) | 🌐 Online | Jun 01 - Jul 01, 2026 | $0 | Beginner Friendly, Machine Learning/AI |
+| 🟢 | [Bitcoin++ Open Source Edition](https://foss.devpost.com/) | 📍 Pride Inn Azure Towers | Jun 17 - 18, 2026 | $5,530 | Beginner Friendly, Fintech, Social Good |
+| 🟢 | [Hack Begin](https://hack-begin.devpost.com/) | 🌐 Online | May 19 - Jun 25, 2026 | $0 | Blockchain, Machine Learning/AI, Open Ended |
+| 🟢 | [Ventura Challenge](https://ventura-challenge.devpost.com/) | 🌐 Online | Jun 01 - Jul 29, 2026 | $0 | Beginner Friendly, Design, E-commerce/Retail |
